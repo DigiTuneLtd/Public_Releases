@@ -1,5 +1,5 @@
 {
-  "version": "1.1.4",
+  "version": "1.1.5",
   "download_url": "https://github.com/DigiTuneLtd/Public_Releases/raw/main/DigiTune_GTS_Setup.exe",
-  "notes": "fixed coolant temp warning timestamp"
+  "notes": "Updated MS Map definitions to support additional FW versions\nAdded .h5 log compression/reading functionality\nAutotune improvments for alpha-n\nAutotune improvements for narrow data range columns"
 }
