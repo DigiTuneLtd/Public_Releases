@@ -1,5 +1,5 @@
 {
-  "version": "1.1.9",
+  "version": "1.1.10",
   "download_url": "https://github.com/DigiTuneLtd/Public_Releases/raw/main/DigiTune_GTS_Setup.exe",
-  "notes": "Added the option to disable multi-threading."
+  "notes": "Add standard or \"Arrow\" options for csv parsing - more stable or faster"
 }
