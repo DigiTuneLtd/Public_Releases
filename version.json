@@ -1,5 +1,5 @@
 {
-  "version": "1.1.11",
+  "version": "1.1.12",
   "download_url": "https://github.com/DigiTuneLtd/Public_Releases/raw/main/DigiTune_GTS_Setup.exe",
-  "notes": "Fixed Haltech\n .hlgzip -> nexmap file conversion save path"
+  "notes": "Correct non-monotonic time axes"
 }
