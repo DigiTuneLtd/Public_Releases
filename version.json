@@ -1,5 +1,5 @@
 {
-  "version": "1.1.12",
+  "version": "1.1.13",
   "download_url": "https://github.com/DigiTuneLtd/Public_Releases/raw/main/DigiTune_GTS_Setup.exe",
-  "notes": "Correct non-monotonic time axes"
+  "notes": "Added dead time utility support for Haltech\nLog viewer channels draggable to a different subplot or position"
 }
