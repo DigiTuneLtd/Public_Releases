@@ -1,5 +1,5 @@
 {
-  "version": "1.1.13",
+  "version": "1.1.14",
   "download_url": "https://github.com/DigiTuneLtd/Public_Releases/raw/main/DigiTune_GTS_Setup.exe",
-  "notes": "Added dead time utility support for Haltech\nLog viewer channels draggable to a different subplot or position"
+  "notes": "Added configurable home page\nAdded AutoTune extrapolation profile\nAdded Wideband calibration correction utility"
 }
