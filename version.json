@@ -1,5 +1,5 @@
 {
-  "version": "1.1.14",
+  "version": "1.1.15",
   "download_url": "https://github.com/DigiTuneLtd/Public_Releases/raw/main/DigiTune_GTS_Setup.exe",
-  "notes": "Added configurable home page\nAdded AutoTune extrapolation profile\nAdded Wideband calibration correction utility"
+  "notes": "Added log comparison to knock page\nAdded log name labels to log viewer"
 }
