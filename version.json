@@ -1,5 +1,5 @@
 {
-  "version": "1.2.0",
+  "version": "1.2.1",
   "download_url": "https://github.com/DigiTuneLtd/Public_Releases/raw/main/DigiTune_GTS_Setup.exe",
-  "notes": "Improved live ECU connection functionality for ME ECUs\nImproved AutoTune shape smoothing"
+  "notes": "Improved workflow UI\nPrevent laptop sleeping while logging"
 }
