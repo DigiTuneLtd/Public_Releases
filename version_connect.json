@@ -1,5 +1,5 @@
 {
-  "version": "1.2.1",
+  "version": "1.2.2",
   "download_url": "https://github.com/DigiTuneLtd/Public_Releases/raw/main/DigiTune_Connect_Setup.exe",
-  "notes": "Improved workflow UI\nPrevent laptop sleeping while logging"
+  "notes": "Improved log recording timestamp consistency\nMinor UI improvements in connect app"
 }
