@@ -1,5 +1,5 @@
 {
-  "version": "1.2.2",
+  "version": "1.2.3",
   "download_url": "https://github.com/DigiTuneLtd/Public_Releases/raw/main/DigiTune_GTS_Setup.exe",
-  "notes": "Improved log recording timestamp consistency\nMinor UI improvements in connect app"
+  "notes": "Add log recording button\nRetain log submission list on reconnect"
 }
