@@ -1,5 +1,5 @@
 {
-  "version": "1.2.3",
+  "version": "1.2.4",
   "download_url": "https://github.com/DigiTuneLtd/Public_Releases/raw/main/DigiTune_Connect_Setup.exe",
-  "notes": "Add log recording button\nRetain log submission list on reconnect"
+  "notes": "Improved robustness for lower performance processors\nFix issue with log resumption on restart"
 }
