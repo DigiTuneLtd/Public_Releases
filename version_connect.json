@@ -1,5 +1,7 @@
 {
-  "version": "1.2.4",
+  "version": "1.2.5",
+  "latest_version": "1.2.5",
   "download_url": "https://github.com/DigiTuneLtd/Public_Releases/raw/main/DigiTune_Connect_Setup.exe",
-  "notes": "Improved robustness for lower performance processors\nFix issue with log resumption on restart"
+  "notes": "Add auto-logging feature\nResume workflow option when re-opening\nLog selection on submit for multiple logs",
+  "built_from": "dd2507c27cf5a65dce30c6b856671f8a6bf3a293"
 }
