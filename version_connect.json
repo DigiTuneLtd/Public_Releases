@@ -1,7 +1,7 @@
 {
-  "version": "1.2.5",
-  "latest_version": "1.2.5",
+  "version": "1.2.6",
+  "latest_version": "1.2.6",
   "download_url": "https://github.com/DigiTuneLtd/Public_Releases/raw/main/DigiTune_Connect_Setup.exe",
-  "notes": "Add auto-logging feature\nResume workflow option when re-opening\nLog selection on submit for multiple logs",
-  "built_from": "dd2507c27cf5a65dce30c6b856671f8a6bf3a293"
+  "notes": "Application performance improvements\nAdditional workflow step type added for trigger logging",
+  "built_from": "b0d7ca1b6c8d3f0a9184fce0d233d4881f874f77"
 }
