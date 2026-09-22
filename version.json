@@ -1,8 +1,8 @@
 {
   "version": "1.2.6",
-  "latest_version": "1.2.6",
+  "latest_version": "1.2.7",
   "download_url": "https://github.com/DigiTuneLtd/Public_Releases/raw/main/DigiTune_GTS_Setup.exe",
-  "notes": "Application performance improvements\nAdditional workflow step type added for trigger logging",
-  "built_from": "b0d7ca1b6c8d3f0a9184fce0d233d4881f874f77",
+  "notes": "Added firmware update capability\nCompatible with the latest improved workflows",
+  "built_from": "6e0e2470c7eaf3b5a2b5d3cef59a9c4fe69e33da",
   "connect_download_url": "https://github.com/DigiTuneLtd/Public_Releases/raw/main/DigiTune_Connect_Setup.exe"
 }
