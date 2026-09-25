@@ -1,7 +1,7 @@
 {
-  "version": "1.2.7",
-  "latest_version": "1.2.7",
+  "version": "1.2.8",
+  "latest_version": "1.2.8",
   "download_url": "https://github.com/DigiTuneLtd/Public_Releases/raw/main/DigiTune_Connect_Setup.exe",
-  "notes": "Added firmware update capability\nCompatible with the latest improved workflows",
-  "built_from": "6e0e2470c7eaf3b5a2b5d3cef59a9c4fe69e33da"
+  "notes": "Asks you to restart the ECU after a tune only when a setting that needs it has changed\nYour tuner can now send a firmware update together with a tune",
+  "built_from": "a5e8badb8c16d9b9f96f981e5a89581fe19a0896"
 }
