@@ -3,6 +3,6 @@
   "latest_version": "1.2.12",
   "download_url": "https://github.com/DigiTuneLtd/Public_Releases/raw/main/DigiTune_GTS_Setup.exe",
   "notes": "Support for the latest ME ECU firmware<br>New jobs from your tuner arrive without restarting the app<br>More reliable log recording and sending",
-  "built_from": "5f1454ca86c8dbbf239eb6a05bb492ff621034b3",
+  "built_from": "ae7f4c8847f18965851901ddfabba7710d32c694",
   "connect_download_url": "https://github.com/DigiTuneLtd/Public_Releases/raw/main/DigiTune_Connect_Setup.exe"
 }
