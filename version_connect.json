@@ -1,7 +1,7 @@
 {
-  "version": "1.2.11",
-  "latest_version": "1.2.11",
+  "version": "1.2.12",
+  "latest_version": "1.2.12",
   "download_url": "https://github.com/DigiTuneLtd/Public_Releases/raw/main/DigiTune_Connect_Setup.exe",
-  "notes": "Improved power loss handling",
-  "built_from": "64b70c90809ee08e15058a3f1eabed2138819701"
+  "notes": "Support for the latest ME ECU firmware<br>New jobs from your tuner arrive without restarting the app<br>More reliable log recording and sending",
+  "built_from": "5f1454ca86c8dbbf239eb6a05bb492ff621034b3"
 }
