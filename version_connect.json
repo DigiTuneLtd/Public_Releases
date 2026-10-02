@@ -1,7 +1,7 @@
 {
-  "version": "1.2.12",
-  "latest_version": "1.2.12",
+  "version": "1.2.13",
+  "latest_version": "1.2.13",
   "download_url": "https://github.com/DigiTuneLtd/Public_Releases/raw/main/DigiTune_Connect_Setup.exe",
-  "notes": "Support for the latest ME ECU firmware<br>New jobs from your tuner arrive without restarting the app<br>More reliable log recording and sending",
-  "built_from": "ae7f4c8847f18965851901ddfabba7710d32c694"
+  "notes": "If a job is interrupted, your progress and logs still reach your tuner<br>Review any changes to your ECU's pin settings before your map is built<br>Go back always returns to a step you have already seen",
+  "built_from": "d732eb5163e2b7b91a337edf6d0babd3aa8adfbb"
 }
