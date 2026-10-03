@@ -1,7 +1,7 @@
 {
-  "version": "1.2.13",
-  "latest_version": "1.2.13",
+  "version": "1.2.14",
+  "latest_version": "1.2.14",
   "download_url": "https://github.com/DigiTuneLtd/Public_Releases/raw/main/DigiTune_Connect_Setup.exe",
-  "notes": "If a job is interrupted, your progress and logs still reach your tuner<br>Review any changes to your ECU's pin settings before your map is built<br>Go back always returns to a step you have already seen",
-  "built_from": "d732eb5163e2b7b91a337edf6d0babd3aa8adfbb"
+  "notes": "Pin choices you untick stay unticked if you leave the review and come back<br>You are asked before running an older tune your tuner has replaced<br>An interrupted job's answers and logs reach your tuner after a restart",
+  "built_from": "af2ce5c4889868449d1b374706dbe9067acde77f"
 }
