@@ -1,7 +1,7 @@
 {
-  "version": "1.2.14",
-  "latest_version": "1.2.14",
+  "version": "1.2.15",
+  "latest_version": "1.2.15",
   "download_url": "https://github.com/DigiTuneLtd/Public_Releases/raw/main/DigiTune_Connect_Setup.exe",
-  "notes": "Pin choices you untick stay unticked if you leave the review and come back<br>You are asked before running an older tune your tuner has replaced<br>An interrupted job's answers and logs reach your tuner after a restart",
-  "built_from": "af2ce5c4889868449d1b374706dbe9067acde77f"
+  "notes": "Spoken warnings no longer say \"Knock detected\" as the engine starts or as you pull away<br>The lean warning listens to the wideband your ECU actually uses, and speaks only when the mixture is lean under load<br>A warning no longer goes off the moment the ECU reconnects after dropping out",
+  "built_from": "d23db9f7fdb86f868616f1c2eba7eb461c5e4f8f"
 }
