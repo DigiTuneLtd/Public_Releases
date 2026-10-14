@@ -1,7 +1,7 @@
 {
-  "version": "1.2.15",
-  "latest_version": "1.2.15",
+  "version": "1.2.16",
+  "latest_version": "1.2.16",
   "download_url": "https://github.com/DigiTuneLtd/Public_Releases/raw/main/DigiTune_Connect_Setup.exe",
-  "notes": "Spoken warnings no longer say \"Knock detected\" as the engine starts or as you pull away<br>The lean warning listens to the wideband your ECU actually uses, and speaks only when the mixture is lean under load<br>A warning no longer goes off the moment the ECU reconnects after dropping out",
-  "built_from": "d23db9f7fdb86f868616f1c2eba7eb461c5e4f8f"
+  "notes": "Support for ME firmware 8.x: its smaller sensor, dwell, boost and VVT tables are fitted correctly, and its custom CAN settings are read, written and can be edited on the ECU Settings page",
+  "built_from": "18e951498c21178e43edb2d194dc341d20d6248c"
 }
