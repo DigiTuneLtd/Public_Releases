@@ -1,8 +1,8 @@
 {
   "version": "1.2.6",
-  "latest_version": "1.2.16",
+  "latest_version": "1.2.17",
   "download_url": "https://github.com/DigiTuneLtd/Public_Releases/raw/main/DigiTune_GTS_Setup.exe",
-  "notes": "Support for ME firmware 8.x: its smaller sensor, dwell, boost and VVT tables are fitted correctly, and its custom CAN settings are read, written and can be edited on the ECU Settings page",
-  "built_from": "29e00c2a208eccaf12df02bde42c35bb25f2dff9",
+  "notes": "Improved protection against settings loss when power is lost mid-job, more reliable ECU reads, clearer new-job alerts and smoother live auto-tuning",
+  "built_from": "cc1e41a1309a7504e38b989da6cb0cdfc76b33f7",
   "connect_download_url": "https://github.com/DigiTuneLtd/Public_Releases/raw/main/DigiTune_Connect_Setup.exe"
 }
