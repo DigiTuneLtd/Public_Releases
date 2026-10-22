@@ -1,7 +1,7 @@
 {
-  "version": "1.2.17",
-  "latest_version": "1.2.17",
+  "version": "1.2.18",
+  "latest_version": "1.2.18",
   "download_url": "https://github.com/DigiTuneLtd/Public_Releases/raw/main/DigiTune_Connect_Setup.exe",
-  "notes": "Improved protection against settings loss when power is lost mid-job, more reliable ECU reads, clearer new-job alerts and smoother live auto-tuning",
-  "built_from": "cc1e41a1309a7504e38b989da6cb0cdfc76b33f7"
+  "notes": "A getting-started guide on the home page for new tunes, light theme improvements and ECU communication refinements",
+  "built_from": "75a5bacdb95c49d1d29a0fb6b4f4cedf46d9dac2"
 }
