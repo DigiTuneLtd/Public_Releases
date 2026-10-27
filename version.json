@@ -1,8 +1,8 @@
 {
   "version": "1.2.6",
-  "latest_version": "1.2.18",
+  "latest_version": "1.2.19",
   "download_url": "https://github.com/DigiTuneLtd/Public_Releases/raw/main/DigiTune_GTS_Setup.exe",
-  "notes": "A getting-started guide on the home page for new tunes, light theme improvements and ECU communication refinements",
-  "built_from": "75a5bacdb95c49d1d29a0fb6b4f4cedf46d9dac2",
+  "notes": "Improvements to ECU recognition and live auto-tuning, plus guided setup for DigiTune hardware kits.",
+  "built_from": "0589e531202534cec438ee96bf5b9ac094dde568",
   "connect_download_url": "https://github.com/DigiTuneLtd/Public_Releases/raw/main/DigiTune_Connect_Setup.exe"
 }
