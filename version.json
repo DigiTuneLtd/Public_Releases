@@ -1,8 +1,8 @@
 {
   "version": "1.2.6",
-  "latest_version": "1.2.19",
+  "latest_version": "1.2.20",
   "download_url": "https://github.com/DigiTuneLtd/Public_Releases/raw/main/DigiTune_GTS_Setup.exe",
-  "notes": "Improvements to ECU recognition and live auto-tuning, plus guided setup for DigiTune hardware kits.",
-  "built_from": "0589e531202534cec438ee96bf5b9ac094dde568",
+  "notes": "Adds functionality for tuning partners: a garage's cars are registered as soon as the ECU is plugged in, and one car can be worked on from several laptops. Also improves onboard wideband readings.",
+  "built_from": "35d7a7322a1d4e761b30195e91e5fe898c6f0232",
   "connect_download_url": "https://github.com/DigiTuneLtd/Public_Releases/raw/main/DigiTune_Connect_Setup.exe"
 }

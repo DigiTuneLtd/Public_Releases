@@ -1,0 +1,2210 @@
+{
+ "blob_dir": "patches/blobs/cp312-cb0d0d0a-pyarmor-9.1.9",
+ "data": {
+  "help/autotune.html": "b21cf6f67a303e866f8a54efc09c7e933ead9d15b23c3e7fd7290adc1fbf5162",
+  "help/boost.html": "f72317217c3cdc91f8085b367cc6822cc820892495638b84bfd8c2882ec0a6ee",
+  "help/calibration-formats.html": "af62875c9eb9ecc172e498ae117f6768a6b462ed26175f714b97c32552770628",
+  "help/custom-scatter.html": "399e268554217ffcf5b1acf71649aeb9b999b738121852ad3a8620d5a66c3939",
+  "help/ecu-settings.html": "dc1261097bcca1999bebfad196b464f62b66a5a48f61eeb39fbe270042798c5a",
+  "help/home.html": "615bf215f16a5cf016509dd5ac25fae57c54d8bc22135305adaca50308855e84",
+  "help/hotkeys.html": "1f37ef75d2e6f78239146826ffce1dc1d38e147309bd4c639ae443489ee8f109",
+  "help/idle.html": "29bcd598644d1b36f2b25d11b903d1a8981da212b51432cd6d0e90ebf521f0d7",
+  "help/ignition.html": "a4a0f92928e82a4572e1a2cf678dec6095730316d876b578e77ab9238c808106",
+  "help/images/AutoTune.png": "245db294842722251395239436dbbd87e146a273eb6000eb6144a06caa4d3d33",
+  "help/images/Boost Initial Duty Page.png": "be12ced944ee4e332aeeaf028be0cea73540a36a2dead2bb2fdbec4c4b839c90",
+  "help/images/Boost Pressure Page.png": "715f8de4aee2c99fc7b905f525545aab4b681029d7547dea392e35d1f67510ab",
+  "help/images/Columns page.png": "b20d9d3157b93913437ef62e529162cffe6d7e0ced5f522540f4ba12327e3033",
+  "help/images/Comparison Page.png": "2606e8512e020a3bfa34da3287e187e72e6c890297213e2ca91ea39e1bfbd1c7",
+  "help/images/Coolant Trim.png": "f2e320a080d7a59725862dae2855b33c967f7a90ab8b37d1d537277638b6ec3c",
+  "help/images/Custom Scatter Page.png": "58e5fe085165636973d7d34934ab1db5662e2be39df36c601ff091ed0ecf2587",
+  "help/images/Home Page.png": "c56161655953006cc01cc288a8384ad2644c9ccb5e1dd579645251bf495c64f1",
+  "help/images/Hotkeys Page.png": "4ca832466ebbbb0b619e7425f44fce6e8c4d4fcb92d9c956563f9c4e8e71dc9a",
+  "help/images/IAT Trim.png": "8f332fae7f90f2ba906c5d40e298575f0aab34cb5c1a69f966a59f74c5fc5038",
+  "help/images/Idle Page.png": "059ee5d29f2784585ac0a52fe671113eb6b6b89b41115b918a2ecf987c429286",
+  "help/images/Ignition Page.png": "8bd990ce653cc30e3d4bfb0e6529d78387e7444b0f633842beb3d8e1fe857fb6",
+  "help/images/Knock Page.png": "7b4dcdc3ed33ecdce9fce0a60ae6a592d650a5aa0d2a4d44ae27da86b4cfb1c8",
+  "help/images/Load Rows.png": "430cb3e1ea7d0c22613a9260b980972e25982e0fe48e4ec216719d585b88fe01",
+  "help/images/Log Viewer Page.png": "356fe123108b7bcc7a6aa8368e22efcb29cc334779401d67861104768e7f5fe6",
+  "help/images/Logs list.png": "17ea5c1e77d8e0a11afde19faa788eee0459e9a0d3f6a004f886b8a802e12e49",
+  "help/images/Settings Page.png": "21bb185fa4e38d929d9cea229b9376822be47446b67acdfdb249974d6d6c2e75",
+  "help/images/Utilities Page.png": "d09c5605f2c8ad18b1eacb331e95d2967b2b36ad9141250850334afd28583910",
+  "help/index.html": "9c0796f44ba0e4beacf704ec290dda950e4a3978593205bee123d1c03a2e4bea",
+  "help/keyboard-shortcuts.html": "0ba9b15de73071236cf9f5b1fdeed054a4f311307648b14d60b42034d9769807",
+  "help/knock.html": "31add200bdb2e1c5d3d1d2de23c6093b386f57a375fa63fbffc84c12c1e0a3ec",
+  "help/license.html": "3ea619b40aecb98ea8b22ff43531b2472d042577b4d48445c8b83439d04403c0",
+  "help/live-tuning.html": "cca962caddff5911a37dfbbaa7cac8dfe0761209b71fad4f74fb3e02a53ba1aa",
+  "help/live-warnings.html": "5e3267715a61803a50642b5c0c56aff502cfee58c307372cfe5da3c8445a083d",
+  "help/loading-files.html": "7c49384389e743ce5ea4803491e07d3b7797a298ea4f3e92d481486872948d33",
+  "help/log-comparison.html": "9c0b311f4692c08d99f702478c55be487cf551b7d041bf49c6304a644de219b7",
+  "help/log-formats.html": "1f9393d2d587dae3dfe62b03dd12ace9c7019d05d8b9d5c40960f1e9310a431c",
+  "help/log-viewer.html": "4efe3ebc24d5abf8ce78b99fc1c1219dfa0c8e5b83c7bbf9fc4bccd60d67e15f",
+  "help/nav.js": "24c7b957ddbe92ee7e74d6898bfc26327e4a1b434a192856b98b8d8d9e9b283a",
+  "help/quick-start.html": "fa68b5a47fac2956eb7885e98fed5cca4557b02a2d9cb296f6f0b76920951d4a",
+  "help/settings.html": "bef8041c2123a9970e54c93009da4a4fc4fe9716e60f047f4dbd0081d9fb17ee",
+  "help/style.css": "3d50ed8fcfdc8f2158bb0af6d9ee69f492c750c3a10195a54cde858aa1ac7d3f",
+  "help/trims.html": "a5a4e596f0666b56b34717a43958a9b0a5b032f0e7240e9165b6b6fb1d36a188",
+  "help/utilities.html": "5557b86da71267eccfa0da9227e8549616b3effe70f2deba1ba284159588ada8",
+  "help/ve-tuning.html": "6ef8ccb5c2afcc76bb5a14da00e9956be5d3c91116bca437b7c0835cc7d2625f",
+  "help/workflows.html": "60d731a0032d810caeaa137871d48c8b41091fa91c1c21b2eaac33b96203e27d"
+ },
+ "data_sizes": {
+  "help/autotune.html": 2827,
+  "help/boost.html": 5141,
+  "help/calibration-formats.html": 2010,
+  "help/custom-scatter.html": 1963,
+  "help/ecu-settings.html": 5153,
+  "help/home.html": 2206,
+  "help/hotkeys.html": 2120,
+  "help/idle.html": 4303,
+  "help/ignition.html": 2410,
+  "help/images/AutoTune.png": 742555,
+  "help/images/Boost Initial Duty Page.png": 297674,
+  "help/images/Boost Pressure Page.png": 369929,
+  "help/images/Columns page.png": 281607,
+  "help/images/Comparison Page.png": 409461,
+  "help/images/Coolant Trim.png": 305301,
+  "help/images/Custom Scatter Page.png": 81278,
+  "help/images/Home Page.png": 1037501,
+  "help/images/Hotkeys Page.png": 94996,
+  "help/images/IAT Trim.png": 399915,
+  "help/images/Idle Page.png": 202779,
+  "help/images/Ignition Page.png": 232340,
+  "help/images/Knock Page.png": 697711,
+  "help/images/Load Rows.png": 479529,
+  "help/images/Log Viewer Page.png": 269603,
+  "help/images/Logs list.png": 73644,
+  "help/images/Settings Page.png": 206658,
+  "help/images/Utilities Page.png": 680610,
+  "help/index.html": 2111,
+  "help/keyboard-shortcuts.html": 1748,
+  "help/knock.html": 2944,
+  "help/license.html": 1737,
+  "help/live-tuning.html": 3409,
+  "help/live-warnings.html": 4673,
+  "help/loading-files.html": 3073,
+  "help/log-comparison.html": 1333,
+  "help/log-formats.html": 2233,
+  "help/log-viewer.html": 5095,
+  "help/nav.js": 1473,
+  "help/quick-start.html": 2368,
+  "help/settings.html": 9299,
+  "help/style.css": 2388,
+  "help/trims.html": 1769,
+  "help/utilities.html": 2120,
+  "help/ve-tuning.html": 2546,
+  "help/workflows.html": 9754
+ },
+ "format": "digitune-app-patch",
+ "modules": {
+  "src.Announce": {
+   "package": false,
+   "sha256": "1c5a5deae624d858d4ac88fc3d9663358cba08d2105feaee228b4ffefdb9e425",
+   "size": 26995,
+   "source": "85774921ed3d247dc28a3adecac6f513e0974b8fe54f763566171169c2b95f7a"
+  },
+  "src.AppPatch": {
+   "package": false,
+   "sha256": "6ea5f1d204372a2095f03ebba6c917ecbed575deaa4af3d2ad2063a540a2a75a",
+   "size": 38227,
+   "source": "d4047f37faab940d8d163e9771d5711045493848bff900528bbc33950a54c088"
+  },
+  "src.AutoLog": {
+   "package": false,
+   "sha256": "eb7a746f3b8d5229e1c8026e551c9ce85990b08fd2bb80997296a14e2138a4f3",
+   "size": 14766,
+   "source": "d19868e6050ef3a0fe0f6c53697f6f2fee3c02291a82a13e4c3c0b1f10ee035e"
+  },
+  "src.AutoTune": {
+   "package": true,
+   "sha256": "bd3a2cfca70fc60eb9915e8f03e8b3ace0c7a98006911e2262420d70469f735a",
+   "size": 3594,
+   "source": "31bcc30fdc72b7e73d0d12b6905ea321c19320842509f5541094764d412d3e29"
+  },
+  "src.AutoTune._math_helpers": {
+   "package": false,
+   "sha256": "38da630d2946e97775af33e68254af9115acd83a40650af169eb67c12fbf72b8",
+   "size": 21990,
+   "source": "c44c4219ac801334e5481f225bcf6613501ab10e3ff317aa7e439d7c9f7e639d"
+  },
+  "src.AutoTune.band_moves": {
+   "package": false,
+   "sha256": "672158ea24e1edf0aa8b1751f29a6a49d634bec71e38f3795d9a21ff0dc1a346",
+   "size": 23646,
+   "source": "3ff0f69757042d36e8f64d11678e556132f6809b4ac67cda195335721a749408"
+  },
+  "src.AutoTune.correction": {
+   "package": false,
+   "sha256": "490f40f3c30d810b5e83711fda3b0cf6237aa10662fad274d861a78d38d0c48d",
+   "size": 47837,
+   "source": "5678ebec697e50abf6bbfb8e1c774f154a94707a8e6f4fb262c916dffef8b289"
+  },
+  "src.AutoTune.extrapolation_profile": {
+   "package": false,
+   "sha256": "1b617627d9bac3294206cd566cb71b04eb2c546820132ab6dd6c0b1ea29b91b3",
+   "size": 15989,
+   "source": "dd9bdcb0382335649b6339efaf850a16bcdca3a574a8015a3f90f6a142a3ab8e"
+  },
+  "src.AutoTune.orifice_view": {
+   "package": false,
+   "sha256": "c92aea81b50eb668e817dd74f7ee09b738559867a2a4f2b0ca72a55dc198718c",
+   "size": 14285,
+   "source": "35f8109046e1c389ca570ef375ddb0d6c203c1f032863907bd6443536bbc79f7"
+  },
+  "src.AutoTune.page": {
+   "package": false,
+   "sha256": "c77834390d4308a560dee9be31abcdf3834ddcdade2769dfa73e2225dbc514e6",
+   "size": 28332,
+   "source": "444cb0061943791207b9d6cc0cb3a9167ec2d1ae7183adb103b2b8a19be910f8"
+  },
+  "src.AutoTune.progress": {
+   "package": false,
+   "sha256": "d588f6bf27221e595370896a375283ec322b3308c6ce7f55f7d2a4e6975a79d2",
+   "size": 16297,
+   "source": "57217dcb3b49c66cdd91fd5ef66b21a56d04e492e983707f8e499ea956f58b61"
+  },
+  "src.AutoTune.ratings": {
+   "package": false,
+   "sha256": "d7a68be4db9d3d5f91438bb0d151ec70220f41629da97652e41c53be63e9361b",
+   "size": 24988,
+   "source": "92229155537b3ad508aa9d739843b241f606b3acecf49a65d9a3940d7ffb441d"
+  },
+  "src.AutoTune.rpm_axis": {
+   "package": false,
+   "sha256": "57c650077c3a3810a8da1a16157c58f2157d01074ca0ea87fa05e0850a223772",
+   "size": 19943,
+   "source": "d14a49c0da32aa238487c8a54f1c4548d5d0058e688a4040bb376997dbd2ce5a"
+  },
+  "src.AutoTune.seed_ls": {
+   "package": false,
+   "sha256": "1056f83aa8f06172c2edcf77af84bc5340a48fbedefd304af2c4ca84d9f40f11",
+   "size": 21444,
+   "source": "3f931cd1cc85a382b8a7ba702e18df7cc1fd9da07706fd1f33dd7ccb6ab0fbc0"
+  },
+  "src.AutoTune.seed_map": {
+   "package": false,
+   "sha256": "7d03b686ad0ebb91e1e448266a04547e5822271783c7770c7147466ab6eb58dc",
+   "size": 18613,
+   "source": "908bce216b1e7b083fd30ae765207f8dc18ed0f650083e1d5f44549b97d585c5"
+  },
+  "src.AutoTune.tps_solve": {
+   "package": false,
+   "sha256": "628244eebb9113ad6b3a78f388b8e355217647e1569979e3122f35854648625c",
+   "size": 58020,
+   "source": "31e4d4b37f9a82d83f9ee0fee96d9328328c0e0c2ace271ac2b448bfdc655b57"
+  },
+  "src.BenchPortLog": {
+   "package": false,
+   "sha256": "74c6caca8351eb2b808ba8660150e9e4e4251e6d0decdbdb8b7a92826a204178",
+   "size": 11763,
+   "source": "389274ff7f718502b24da0efaa6fe8ae18d1f44f1eec9fa9f9e9fec4b55d344e"
+  },
+  "src.Boost": {
+   "package": false,
+   "sha256": "8effa02734bb6b9895a906d88e9218e4ead5e631a89055b0ac7ce62103eb600a",
+   "size": 77030,
+   "source": "f24cf05771216f209626e4977a4e495b67b76be60d4c8fc68163c08cb418a9b3"
+  },
+  "src.BoostAutoTune": {
+   "package": false,
+   "sha256": "99400ccca3f911b37302bb0892cf9cc28479b0d96e17a0cdc0a0283ca61fd29e",
+   "size": 68154,
+   "source": "d76be577645a7e6340e423a270b0d403027e2eed142a307d9589727b8e8f7dd8"
+  },
+  "src.CaptureSession": {
+   "package": false,
+   "sha256": "0adfe411f3a2347492a9d0da17db885a9e7a7dbc4d3086893b6eded345e05cb6",
+   "size": 122575,
+   "source": "6cc9cd34d0d6195e5fd04dcce30cf724b83e8d164e29785fd8b8cc5e5408934b"
+  },
+  "src.Cloud": {
+   "package": false,
+   "sha256": "21af55c90123aaa1e6c35e278eece7cb139fa0a109d9d607ea6cd4c388379aa6",
+   "size": 227569,
+   "source": "d26a649fa2d492dcbebe693d91b9ef0037432115cf9dfc0a98f5ac5a6c7ddf41"
+  },
+  "src.CrashDumpConfig": {
+   "package": false,
+   "sha256": "0a158e08bdd00db878bedd54ef7875363cf9ab5b3d7c6cb9c3850bb9958ef993",
+   "size": 11088,
+   "source": "e444ebd4922f87f9324da48770cf35d3a80e10013ecb2ebb1295156cb16c3463"
+  },
+  "src.CrashMarker": {
+   "package": false,
+   "sha256": "cd874c4870f65d2d9abced22211326267f78b8d25e07eab87747ed1028e76399",
+   "size": 14417,
+   "source": "e44c9f958230627b97171154a1593df52aad55b0c12285f3ac267b8027fe61e7"
+  },
+  "src.CustomerManager": {
+   "package": true,
+   "sha256": "21fd26e75ba436f37f4ecf8aa685ace18f6bcec25fa402fa8da3c2d155f28397",
+   "size": 1764,
+   "source": "ad45b7ea04e3d50972e8b3cf32d9757f4f9691457d9b881e5de6d5612258c518"
+  },
+  "src.CustomerManager.analysis": {
+   "package": false,
+   "sha256": "7e86d7579455bc220772a2cbaa1ee1220014bf9c710863d3e1ebc469e66f246c",
+   "size": 34390,
+   "source": "01b3443f01ba2c01c5bd84ade656b6556ae750817ce6d73cfafd57eb5d756cef"
+  },
+  "src.CustomerManager.clocks": {
+   "package": false,
+   "sha256": "80049a7e0e6ddd0fe4ce97930d9851315e1e19b0e09fcbc7a039f1c9e0b50239",
+   "size": 16389,
+   "source": "007d29fa7d10e7ee945211d5c406d862d085873e8b3b7b47a83a2f8889ecae75"
+  },
+  "src.CustomerManager.completion": {
+   "package": false,
+   "sha256": "5789213c586d37c2fb49106337e3dcd24ef2e837e5454d000e8edc22729b6e71",
+   "size": 17228,
+   "source": "216f70fb160dab3d21ce0232c5a00931585b347cc08d5ec5cf7909232d5070fc"
+  },
+  "src.CustomerManager.customer_ids": {
+   "package": false,
+   "sha256": "010d582ad1d82882a70c805c7173f7fa4aa1501cd28c3dc56e9de0497b712a38",
+   "size": 11086,
+   "source": "4de2faf252aee199b4390ba89e9ee70898e99498398aaff61ed15988cbed2cf4"
+  },
+  "src.CustomerManager.customer_notes": {
+   "package": false,
+   "sha256": "ef076390994c460f69e60585bb5a8587eb6eff34dbc7d4f68442eb90e294ee4b",
+   "size": 33576,
+   "source": "d20c9bca488fedc321120fe6c69c12cb329b015e3709d71b6a62b27aa11e0692"
+  },
+  "src.CustomerManager.forms": {
+   "package": false,
+   "sha256": "d409fb6b0d9ba1f8ff3fb670e487efa10edc42e4dd091474a3dc675e00ca6a85",
+   "size": 27624,
+   "source": "62a60ed43449eccb8f479ade5d7096fc04e25a937580c0acc76808e3c0a75f4a"
+  },
+  "src.CustomerManager.index": {
+   "package": false,
+   "sha256": "7c63a0d6031e13ab026b64464d00ae2c5389892b90b00d047c1d5dd108d3e7e1",
+   "size": 33010,
+   "source": "ade2ec8d7f026a099c5f23f420e2fad4e1155d714931961e3e7247f4f22133e4"
+  },
+  "src.CustomerManager.opening": {
+   "package": false,
+   "sha256": "c355f1eb5a15cd602789e215a0d6a9cd5466786b466b535489ea8e93855b2e3c",
+   "size": 26080,
+   "source": "ee4b3acb0deafa40d02f95460205fe9fbc9b807b7baee25f380a4f3c6c87b794"
+  },
+  "src.CustomerManager.placeholders": {
+   "package": false,
+   "sha256": "d0d1b5d368eaffd5e927a7f11600b7686a4aa14426785d5388b54c793d1c1404",
+   "size": 19235,
+   "source": "b07c7ea7021d8c0d7b75b6a2853b79fbcb15a6005f8aa30a7bba523999b1a72c"
+  },
+  "src.CustomerManager.queue": {
+   "package": false,
+   "sha256": "e6918b37b5c76966d49547f6f13420ff1f9a15ec2d6b0e989f9afe543619ab37",
+   "size": 23906,
+   "source": "3e15304feaf4e8455b4b90a9e2d4f117432cc1bffcbb86a3b839c6ec6304c495"
+  },
+  "src.CustomerManager.scan": {
+   "package": false,
+   "sha256": "6f6b5eb29eb40bba7b2958ddd675618b5ff28faea1bc5286867026121e236fca",
+   "size": 68384,
+   "source": "6da1a80bbef121d18ded496767cd2387237820f098ea6b4b9fcf48c0a841e1df"
+  },
+  "src.CustomerManager.sent": {
+   "package": false,
+   "sha256": "5ac2d842f90d21d81bacc3b02beb8fe5a29bcc7d49d02feffce7424df49a349d",
+   "size": 21975,
+   "source": "54747504caa252cdc619f08ccd9103247600b60d76288a168c138e5e46278b6c"
+  },
+  "src.CustomerManager.shared": {
+   "package": false,
+   "sha256": "4d26a8ee932f95d2981aaf76758d32bb77bf94215bbde3e83cb5c0208cf9ad81",
+   "size": 26136,
+   "source": "2378f22559164f44fbec0ae8ba14311f5d8323a26731909925cbc691c32d6f7d"
+  },
+  "src.CustomerManager.state": {
+   "package": false,
+   "sha256": "953ac73b899b722b2ea2232e5a47f0c51f1f45c7892cb48826ddcfc2a1942c7e",
+   "size": 43236,
+   "source": "8d35c967b4c80efdc870bba6660f6c64aed34a23092a915d9f1f8ce2b3b1684d"
+  },
+  "src.CustomerManager.timeline": {
+   "package": false,
+   "sha256": "eb3a194f1863598bbf97fe44367479aeac1dd00fff3b857187a667e4ab088b21",
+   "size": 21602,
+   "source": "4e12a9eb562d2f3c7cc62f3f3b2658d413e2c31c1962894c31d7a1b503f1e73f"
+  },
+  "src.CustomerManager.triage": {
+   "package": false,
+   "sha256": "8c46dc2365852c39749fbd043407912d77724330165eb96755c65ab563f87f43",
+   "size": 19520,
+   "source": "f365b4ccc8fb98f628ae8cc647367c15a9ff18e81de26736664a9e34aeb3890f"
+  },
+  "src.EcuLinkCore": {
+   "package": false,
+   "sha256": "749d7e278c5435af04ff3afea7471e805b80bdec8fa4e13d473eac9018fd7f26",
+   "size": 84759,
+   "source": "a2ceffb192d8986cf06302fb9f1434982deffc7b249db7fe2510b98d7cc6b970"
+  },
+  "src.EcuSettingsCore": {
+   "package": false,
+   "sha256": "4bdc60eee20b65e490eb38748b66498faa30244961102071fec9c76f3dea1f87",
+   "size": 118342,
+   "source": "a575210fd21acd95e327b287c269404f79b768b5a547a05d1792add0ceeb7cb2"
+  },
+  "src.ErrorLog": {
+   "package": false,
+   "sha256": "90f8e76cb755edcf51a1dd48f0147ec300f144fbc51c7a6660c368213e1bf9ea",
+   "size": 10323,
+   "source": "adb4f6d37bb4948551c85ae9c6ff7993c32f681be835bfb0f01cec8c5e8e0ccf"
+  },
+  "src.Eula": {
+   "package": false,
+   "sha256": "51c950592f6533b1cc5345ea1b8c8feed7126f4cf35550185246e84bb568d67d",
+   "size": 21267,
+   "source": "afc2d4cf5319da01d6c8e17339d178954f960325c05b49b10a1701f4fd21e7f5"
+  },
+  "src.FileAssociations": {
+   "package": false,
+   "sha256": "2935af805882650c84fa2e0bd941c6486d14ee239d34789ce9d412ad54424c0c",
+   "size": 50001,
+   "source": "bb201b0e70548e2b4e8e539236bc88f3bc3cee659519e1c170d573a2040fe70c"
+  },
+  "src.FirmwareLibrary": {
+   "package": false,
+   "sha256": "2f054720bfe53077e6bac8513eeb8515e98066d36c8ff08f56e26e783e59afe7",
+   "size": 47027,
+   "source": "23197d44f86a77718c25a22ebbcb4d0a6e1da4ec50685e958802e70734043b1c"
+  },
+  "src.FirmwareUpdate": {
+   "package": false,
+   "sha256": "8d93bdd48aba0362361da2ba94af2688b64a3dd70d228e455a5a0d222b5a2a2c",
+   "size": 18486,
+   "source": "1bba5e0cfe46ea037769b8cd8f01848ab410b707ee7b4cbe2d3128cd3dfa210d"
+  },
+  "src.Fuel": {
+   "package": false,
+   "sha256": "f7aea2c2d2a1ad641729c5e0e3a8d1357e29705451943e07753f626a8f314313",
+   "size": 140199,
+   "source": "32a1abe167e96c5e0cb9a0b61a5b5ab1934732a967ad339d55e7d3a35d62912e"
+  },
+  "src.Functions": {
+   "package": false,
+   "sha256": "f23ea020b845b120ee339be4472351e9e4b9bc6c6a6e0c949072b255a2f02516",
+   "size": 680910,
+   "source": "1a780d6bfe8c27da95e9f1d9413cef18a839dcff9f6a9a83a75f3ccea14666b9"
+  },
+  "src.GUI_Functions.Announcer": {
+   "package": false,
+   "sha256": "9a5b1bc09a5de2136113bb0c64f0b46961a7e568e4cc0c4150241355a417aaea",
+   "size": 25502,
+   "source": "7d99e2668c4d43a44122678a0c8153fa92a38affe41f0703a3c604e1ff76de50"
+  },
+  "src.GUI_Functions.BoostTableWidget": {
+   "package": false,
+   "sha256": "82e61a7ef9d4bb03b8ab95f959fa36db57b645f4df7bfd852d0983e4af598bd8",
+   "size": 17742,
+   "source": "03ae5bcadce58ad5dcd10b5eca07155b33545855f064a6735cf783f05a78fb29"
+  },
+  "src.GUI_Functions.CommonFunctions": {
+   "package": false,
+   "sha256": "1ef8214d8444ecb1747490dd270cae6c43cef269d67cd21dc9956988c4aa9964",
+   "size": 55203,
+   "source": "21f10e2a39ec65980d34542d96675f9d7c3339d3df3cefffde9ca40d4ed4713d"
+  },
+  "src.GUI_Functions.EcuLink": {
+   "package": false,
+   "sha256": "b559e2ae7e444e2e4a69a03e835ca19153229571ba35480f783f7484fcd3878f",
+   "size": 12336,
+   "source": "2fe622d8d2b8152cfffbb52e587e7d6912118961cbdbb93b999490143ac21fac"
+  },
+  "src.GUI_Functions.ExtrapProfileDialog": {
+   "package": false,
+   "sha256": "4b5aa29220079ae4df2e88b46413af206efa2ed4ed1a7820d7aa617a8db838ee",
+   "size": 26232,
+   "source": "77adc77f18fb3e6b19972b7cf01db1e5c4e0f1d6ae598cc36c6753b7c05e0e4f"
+  },
+  "src.GUI_Functions.FramelessDialog": {
+   "package": false,
+   "sha256": "a43b2728744ff49f2515633a805a46427e40886da83d601554df60efb6d5459b",
+   "size": 41619,
+   "source": "c41582661979c21537d19b81d58a7b312f99e18ca5e6c86e889517ebffa03c4b"
+  },
+  "src.GUI_Functions.FuelTableWidget": {
+   "package": false,
+   "sha256": "c65d5f2756c495a4ae976c901f3d61329fe8bb3c99d76c82aa1447a4b7af6538",
+   "size": 35001,
+   "source": "e160a92a22667784ebce1ec4abd37a8bcb7ea05b7d5a7883e5fd1eda16f9efe9"
+  },
+  "src.GUI_Functions.HelpWindow": {
+   "package": false,
+   "sha256": "6235ca454340e476c852ce77c857a03ca8a10771350b590679ef3bc6486c2260",
+   "size": 4141,
+   "source": "d80375a2aef1db7e58018502b541194f7f086a17b5fd499678a1aeca1c3a1fd3"
+  },
+  "src.GUI_Functions.LiveAnalysis": {
+   "package": false,
+   "sha256": "77da3fdfc46c7c48184a94e0f85325d92109ec514910b019c97497700f3a4d76",
+   "size": 5590,
+   "source": "fc16b9b8e754c2722b9b17297691d72e108e08e8518da73fa51c15033a0e6bc2"
+  },
+  "src.GUI_Functions.LogTable": {
+   "package": false,
+   "sha256": "a9ecc6033a00f874063c07da462a1aed7f6b838fdec2a6fab815ce5eb728e403",
+   "size": 15809,
+   "source": "358a1149e2ba5ce3bba0415428c8466e8a47552b5e5e5e0a32ead0d473c318d7"
+  },
+  "src.GUI_Functions.LogWarningsDialog": {
+   "package": false,
+   "sha256": "5e96238918ed48905ceb70c7f216b66fbbb0fa3ce789f0b631ee60c76e9d3b20",
+   "size": 14401,
+   "source": "5d19e43371b8a18d1e257dba90789676d12462db048a67d1ebc56147cb82dd3c"
+  },
+  "src.GUI_Functions.PageStack": {
+   "package": false,
+   "sha256": "6197ac94b69cc9e34a44b660776707fb7855faf13bf107a2230fdc83789acdd7",
+   "size": 2368,
+   "source": "3c995f8c5602bd16133c5506c1bf789b550fc6a18a099b29add3fc71c8cf557a"
+  },
+  "src.GUI_Functions.SettingsPage": {
+   "package": false,
+   "sha256": "87275e431d8c4184884d653fe9f6aaece94294886a426fba4284550c39af9752",
+   "size": 47275,
+   "source": "de66b3d208049927f43e3ea1ea01ed33b628318b92cb6a75504bb01541bbaa8d"
+  },
+  "src.GUI_Functions.Shell": {
+   "package": false,
+   "sha256": "6417c80ca4963c808d750839b883e67c039b92a3ffb1cb99e890c610fe7d5494",
+   "size": 20504,
+   "source": "07b0c268aa2b9ab6c3e9256cdca2106d6091582d67e6ddbd4140d3b2b97b9486"
+  },
+  "src.GUI_Functions.SlideMenu": {
+   "package": false,
+   "sha256": "0d3121f368d5fd0676622f38270dfa0874d14cb5809981bb018be44a0adbdf02",
+   "size": 8468,
+   "source": "08a7d47f9f95ae6db7716becdb2205f310abdec5d48033f72afcf354ffd950cb"
+  },
+  "src.GUI_Functions.Toast": {
+   "package": false,
+   "sha256": "15f72b6c560e154830ea365586ec1e4e99f900b67460b3f67a7a010a793c7e0d",
+   "size": 21987,
+   "source": "cf74ac73272d014e3979378bea5c568685928f52b9adb8a9956c5fd34c6137c8"
+  },
+  "src.GUI_Functions.connection_bag": {
+   "package": false,
+   "sha256": "6c5fa53c69ba1aaf8a62ce381612ce9254e17aa24c4c19d8cbe1f105487afc06",
+   "size": 4190,
+   "source": "dbcd1aaabfbe6b1f1e11fc1713d252052b6961f53eca787f74ea7f1afbdbe73b"
+  },
+  "src.GUI_Functions.pages": {
+   "package": true,
+   "sha256": "e1f5dab9bffc797e40adc9791baa7ec68230b0d1b38fe9fb6062d2b685ee2bea",
+   "size": 1075,
+   "source": "68c1ee0875cd7fae531135c064883d5250ab81810fecfcf299dd607ea3ef6cbb"
+  },
+  "src.GUI_Functions.pages.ClientHomePage": {
+   "package": false,
+   "sha256": "f2958c93c8abd6c6f7c871e40a07fa9e356f008826d0e22ea58e2d5439979594",
+   "size": 251166,
+   "source": "12f7545f6e24771744bfa1b0620bec7e6eeb84930a7e6f194647a2a9da8ae3b4"
+  },
+  "src.GUI_Functions.pages.CustomScatterPage": {
+   "package": false,
+   "sha256": "4877fae0a2f350f76802ec4454d739bfa26b69e1d52cd64fa819936ff1fab566",
+   "size": 49417,
+   "source": "8d06deeb04d548ee3bd77a5f8c2c7e50d635029b05c788eb747bf78e5009b763"
+  },
+  "src.GUI_Functions.pages.CustomerManagerPage": {
+   "package": false,
+   "sha256": "89c64882c563281be1e53feaa0d0accb6466594225f796e8dee2653ccbc49a87",
+   "size": 204945,
+   "source": "23c25a7238c86a5335867cb11c98d0e3aaab56cca599ff0112cbd27973fb9a22"
+  },
+  "src.GUI_Functions.pages.EcuAboutPage": {
+   "package": false,
+   "sha256": "c22aba63c5b05f4d4cfa17782c271dd335380ee8c08619abde1f88a4bee9f639",
+   "size": 38369,
+   "source": "51ada42649526781553e6028e6aaede8c2c4c9e1430e04b116c929cd176b6532"
+  },
+  "src.GUI_Functions.pages.EcuCommsPage": {
+   "package": false,
+   "sha256": "67f64060d2738fbbae5213117af357b207f48bf60dc454ec8eaa890cda3d97aa",
+   "size": 78958,
+   "source": "a07902704d0ae2a9215c53b204f080f863c5608d308a5b526eece081e5f40dd3"
+  },
+  "src.GUI_Functions.pages.EcuSettingsPage": {
+   "package": false,
+   "sha256": "296148b835cef40a04dd7f7bef2dfe4f3b120d0cb71251dc17117a445c82465a",
+   "size": 206855,
+   "source": "a2fdaae6a1cc799f6f4f5c94334212ccbe019453c2472a6cfc62db058f0cbeae"
+  },
+  "src.GUI_Functions.pages.HomePage": {
+   "package": false,
+   "sha256": "53b4457ab6eb5e1ce246239bd0c35ff523cb359b9df5cd94ec2c3c33862143cc",
+   "size": 42956,
+   "source": "798e712b89144e7d5c721045d61451de0b9617f38399c35828f612efeb100056"
+  },
+  "src.GUI_Functions.pages.HotkeyPage": {
+   "package": false,
+   "sha256": "48024be43e3ba8a7a0f3c1e7b8f20250beb06ccdf2c8ede6faa8dc314e6c2a5e",
+   "size": 15259,
+   "source": "cef64d74674254555669fc38c8a2fcb002c1c3bc38feec74e565e048f91decf2"
+  },
+  "src.GUI_Functions.pages.LiveDataPage": {
+   "package": false,
+   "sha256": "719dd836e0ef96e793a48755e16acb080de50972dd63e2d10aa8e91cdbf0bc8c",
+   "size": 73607,
+   "source": "b15669cec895e945b0f1e24da60ff43bfd12a3d1aea8811df84e434456bb2844"
+  },
+  "src.GUI_Functions.pages.LiveTuningPage": {
+   "package": false,
+   "sha256": "b0b19555e863706b0dd0b22bda1ba75e2697c028d658c606795cfcf94469b193",
+   "size": 176129,
+   "source": "3231e3c2195c5cecb8d484d65f98c26e0ab1aaabeb9e4e70f50542447644f1f8"
+  },
+  "src.GUI_Functions.pages.LogCompressionPage": {
+   "package": false,
+   "sha256": "0d1e0d68e882c8e906dfebfb8bbd2a90d5dd18ede07d8df38c556350b0417507",
+   "size": 33730,
+   "source": "c54060423b7d6ae65712e44921db6695d2ac22a7b8297fc84a38cea0a398e8cd"
+  },
+  "src.GUI_Functions.pages.LogViewerPage": {
+   "package": true,
+   "sha256": "f1a3aa070cd3ebc687b292acf7b978621be5b1c368cc950b6847e5524372b5a8",
+   "size": 840,
+   "source": "f06a342eb1a39726b7b40d803fadf7322cebef5dc691993d6e8b349fd6e2d28b"
+  },
+  "src.GUI_Functions.pages.LogViewerPage.channel_config": {
+   "package": false,
+   "sha256": "0d6c2e45af9a3c85433a7035d6bb23f9dd7537407c2fafe7bba61b405d3dbcaa",
+   "size": 2424,
+   "source": "f353a6cbbf12cd240dfbc9dd8f753e50eaa109cd90afe0d023a37506bd7ae655"
+  },
+  "src.GUI_Functions.pages.LogViewerPage.channel_options_popup": {
+   "package": false,
+   "sha256": "cbc8c6785dd9fcc0934f813b744df7e052f5b47cdfbd5b71985450201b17e056",
+   "size": 27743,
+   "source": "7be11c32b7c54e61ae4ee7a28e3a992738a2b62afdab9bd96efec87bdd83d3ca"
+  },
+  "src.GUI_Functions.pages.LogViewerPage.controller": {
+   "package": false,
+   "sha256": "d04e1b8c60cac620a1554f0a47e717c73a79ddea46fdc0892af0d10ed77c40ee",
+   "size": 72513,
+   "source": "cee40bc74714448abd21e0c39b4cd5f4b7518ca8812dd227f510a181065a80b4"
+  },
+  "src.GUI_Functions.pages.LogViewerPage.cursor_mixin": {
+   "package": false,
+   "sha256": "2f8f6d42d0f4a566414fe60f3515b90c669f71e9149516e9d963bfd81887159f",
+   "size": 43261,
+   "source": "8cc96f73b02f0db95b86f0ef6c67778e3b27de9a5aea815206666206a239f0bc"
+  },
+  "src.GUI_Functions.pages.LogViewerPage.derived_channels": {
+   "package": false,
+   "sha256": "6a1bea4735e51b7e923b661b19c35f8eefe868d6deb0026cc2fee39b2bb716ad",
+   "size": 7802,
+   "source": "76f1940d8e4561aba6126abd494705d569688a4c20592c2b11112d431bf2eab4"
+  },
+  "src.GUI_Functions.pages.LogViewerPage.dnd_mixin": {
+   "package": false,
+   "sha256": "d72552fa936e004ce3bd93ff9ad0d202a154ff6a0af17fd0c38bc71317962113",
+   "size": 11284,
+   "source": "a9e5c58cb7eb92732479b1c5518f8bb0782643b6a2c66ee2101a026bf08a62d9"
+  },
+  "src.GUI_Functions.pages.LogViewerPage.global_options_popup": {
+   "package": false,
+   "sha256": "dfe3287522be2b3e88b93db9d6bbdc0d1959e820323cf6b5149aa6aa83b64f9e",
+   "size": 81655,
+   "source": "20bbde1918273dfb4d73d61e2a1a3aa05082bcbf6b5473e1fca3d335bb43aa57"
+  },
+  "src.GUI_Functions.pages.LogViewerPage.helpers": {
+   "package": false,
+   "sha256": "17fdaedf19ac8aed7ad38da71a1398c22a079989a38b557e30bc9a92abb27115",
+   "size": 29624,
+   "source": "d94405b8321f6fa54acd7b9b23ff507b9eb2238d510c255812e7d4e1da6430cb"
+  },
+  "src.GUI_Functions.pages.LogViewerPage.live_tail": {
+   "package": false,
+   "sha256": "f5269712555a19af64c46ed6ba0ef8906b6dc42061eca39305ce09874bab0eae",
+   "size": 1267,
+   "source": "cac77aaa40285fdddbb3209d1858e6439e2cbe65cde59c4165bce2f234bd3778"
+  },
+  "src.GUI_Functions.pages.LogViewerPage.markers_mixin": {
+   "package": false,
+   "sha256": "7442255ef9eddf2dde263ba36db064b2475c5ff689bb4e35d200f4017a49aff9",
+   "size": 28941,
+   "source": "5d5f58aa11be7395ed097ddc7e3022c219c9dc2f030a7b75f1870566e91a47d4"
+  },
+  "src.GUI_Functions.pages.LogViewerPage.plotting_mixin": {
+   "package": false,
+   "sha256": "c5c8b08b13fa77a0a2699f08c008890686e07b14942abb58cf349bde82ebe30d",
+   "size": 239570,
+   "source": "6c1f7cda4ec92b261e03b8176dd1a9dbe59259f87ef3798a1ec26c52d81729ed"
+  },
+  "src.GUI_Functions.pages.LogViewerPage.presets_mixin": {
+   "package": false,
+   "sha256": "bd646ed392b0fae16d7a983e0ed565b332e77552942eaf60218534882cbb2469",
+   "size": 30450,
+   "source": "7f326882a9486debc8f7c3264266c7ec2e08e4378a525b662f9af4704bd1eee2"
+  },
+  "src.GUI_Functions.pages.LogViewerPage.widgets": {
+   "package": false,
+   "sha256": "b61d7ab2f4618cd8c316d6e1f6c4d06ece25549c2fc362cbc104f166efbca7d7",
+   "size": 97683,
+   "source": "1b59b2ea2c1dac9353103003a56d6254607d1ca549c31dba48b1a929863c9232"
+  },
+  "src.GUI_Functions.pages.MapConvertPage": {
+   "package": false,
+   "sha256": "0b6aededdb93b53634606ccfcb0de7e04e4656c4c3fff262dd29c9753611f32b",
+   "size": 44956,
+   "source": "4eb8f4b8750459233b291a4ac147f3b8f88b9423ed3840ae356d4a505eef4311"
+  },
+  "src.GUI_Functions.pages.MapPresetsPage": {
+   "package": false,
+   "sha256": "4c77615ca5badf0c8c1d78d5dd432edef4a1d42b2e6e8a3aa4698c385094971d",
+   "size": 168396,
+   "source": "b44af5ad69a5139e4bd202c09c6bd954644243dd5af42f6ddbdadf48be9f2e6b"
+  },
+  "src.GUI_Functions.pages.PowerEstimation": {
+   "package": true,
+   "sha256": "c2fd5201bfd6f0f98ee5b4fbcb6533d92e583eca3fc517b757f52fa871a21885",
+   "size": 2423,
+   "source": "9b1ba6192dfec64f2ffc61c1d617756a3cde9a9a753606d8b3d3ed59ef698b60"
+  },
+  "src.GUI_Functions.pages.PowerEstimation.gearing_extract": {
+   "package": false,
+   "sha256": "8bebaec04716fa5708290f17c8183723e63ec8e4043788be7f7e1ae3d23ac150",
+   "size": 11105,
+   "source": "0963031baaa9f0565800bbe20c221a7f551acd5391f29db1a9d1998b5248091f"
+  },
+  "src.GUI_Functions.pages.PowerEstimation.gears": {
+   "package": false,
+   "sha256": "90110b581ed00d47097c1e7d730764e2f087fef6bc12db3d157ce7a5a763108a",
+   "size": 27305,
+   "source": "98f6e2b9172acc70d7953b1f8ef35fd937d1afc83d0ac87d5407556c759b52f5"
+  },
+  "src.GUI_Functions.pages.PowerEstimation.page": {
+   "package": false,
+   "sha256": "c71d4434bb2d6c630d35f64545f0ca62f148c175da78b12c14a8f5715996e0b6",
+   "size": 135521,
+   "source": "be2b9dcb89c2425c1147edafaf9081d897a6364098002bceda7e37fedbf3e2f6"
+  },
+  "src.GUI_Functions.pages.PowerEstimation.physics": {
+   "package": false,
+   "sha256": "60a7abf96dd8c22d44ed5732a99343dd92dbdd9897f181c6a22ab54c458aa45e",
+   "size": 22618,
+   "source": "b3ff932d7a42e2d72f356c1de676b5bc75a2eae93b084e817a441d4104a5108d"
+  },
+  "src.GUI_Functions.pages.PowerEstimation.wot": {
+   "package": false,
+   "sha256": "bf2dc88fa2978ec2708ff3880d428473091931fddc91031bb6c42f65cb827401",
+   "size": 7747,
+   "source": "2bf3f2f133d3d123ea7a107c7e6d9aabe18e330cce419345ae22b55da889000f"
+  },
+  "src.GUI_Functions.pages.TunePreview": {
+   "package": false,
+   "sha256": "96ebbf679b0ffcc66a7c894b746124d12f1a49f3b6f032c5135a7ba47f6b2cc0",
+   "size": 10581,
+   "source": "be6a13d11ce5a17a4dc2a11f757d38c4e132e0fca7b562d9087e94c1f19e9127"
+  },
+  "src.GUI_Functions.pages.TunerNotesPage": {
+   "package": false,
+   "sha256": "9fbb4863df54d2e0325d0fea8034a9a2cb8c148075b08efcd025782c5c2fde6d",
+   "size": 16192,
+   "source": "ebeb10f3b5f0e4dcc2d8c77edf97a07a905aac843571b8b897e84a6c531cc245"
+  },
+  "src.GUI_Functions.pages.VirtualEcuPage": {
+   "package": false,
+   "sha256": "56460d71aef9516b2dc94611958b74cc9dbf496a24c7f6d3ca1da307cb7ef180",
+   "size": 74735,
+   "source": "4a0c69c7d288fa57c54b4d21472f0ef42623363c53250645456eea3d052b8ac1"
+  },
+  "src.GUI_Functions.pages.WorkflowAuthorPage": {
+   "package": false,
+   "sha256": "266b219345501a4e0e3431d64d6c4c829350afd9e3ae0dae5dd189422f9af6d4",
+   "size": 338664,
+   "source": "2ff2cf68dc8e0c85e6e019e1ebd98fcb28c7d5c45821a48b644f0ceb672125dd"
+  },
+  "src.GUI_Functions.pages.WorkflowPage": {
+   "package": false,
+   "sha256": "d0d0a63456530b79b4578eb719f7e5b182bd8048be95104be8ee471bde869b71",
+   "size": 364436,
+   "source": "992f39879e3f21b6bf2c2f42103de9b07e2fc8e54419aaf94b6d1ae0d2cc9d68"
+  },
+  "src.GUI_Functions.pages.boost_pressure": {
+   "package": false,
+   "sha256": "b924d50cbc4f66cb2b0806a986fd2d6c7d4f3bc2ad0cb35388c980e36a3c3b4b",
+   "size": 49103,
+   "source": "d788b43325cf7cd03cb033b69ef3c4703afad82cb24f1c99bcced185bbe82695"
+  },
+  "src.GUI_Functions.pages.client_about_you": {
+   "package": false,
+   "sha256": "daf18e99d55b8a1b462de7ce457e667308b02c535912f3d51a6590634bdbfcb3",
+   "size": 4934,
+   "source": "0d984d88ee3cfbcc16b3b8746d6692da574adf0b618581dc3d616e46e0e5b216"
+  },
+  "src.GUI_Functions.pages.client_car_details": {
+   "package": false,
+   "sha256": "f8a64b2d41a34f464e955e6036ec9a3c01a84ca789639d1f4d350b7ddc255994",
+   "size": 6166,
+   "source": "3ae970adb6f98acae50655a3be9d9d4884403284cac8942e9d4e6af4afd6bc6f"
+  },
+  "src.GUI_Functions.pages.client_import_log": {
+   "package": false,
+   "sha256": "89d0f60d9427cce1e56390b17c8a9643f338fc143c3806857fadc08f0d3b61bc",
+   "size": 15872,
+   "source": "06d6c6dd2afff355a0298e9f9b8c9289e683e1bc9e8b86d29419c95a6a7c66f2"
+  },
+  "src.GUI_Functions.pages.client_live_session": {
+   "package": false,
+   "sha256": "48a9b42fdceeb8a4adedfd87d8d7a791943756e9f92ea6d497bc1580b8ce72b6",
+   "size": 19318,
+   "source": "ca09635442bd9379786456f8f6bf960e241aa304608b9d4e8e0a0647b70a7174"
+  },
+  "src.GUI_Functions.pages.client_manage_logs": {
+   "package": false,
+   "sha256": "94a1102a807a5fb06259e8046e1d17efad70936f1f6dd981b946f084d19339cf",
+   "size": 32051,
+   "source": "6f4fc6919c4da4fb507ccaea840ca1d7d7d674e0230e61aaa1ce63cbe315b10b"
+  },
+  "src.GUI_Functions.pages.connect_logs_dialog": {
+   "package": false,
+   "sha256": "6b84aa0f1c8eee6388c0018f1b224fbd06ab6181f622563a9b40d11b28977a9b",
+   "size": 35577,
+   "source": "d457dbec60b2ed9107e3c87cca5591431d59587e476466adf0f094fb5f7fc18f"
+  },
+  "src.GUI_Functions.pages.dead_time": {
+   "package": false,
+   "sha256": "edf64f1c95941320d0faa2744798784961568a9024c43acc5f9ecc24ff2dff33",
+   "size": 40673,
+   "source": "0d2b4dc8fbb1cff97024c188072b1e8d13f6140993422ccb7294b3ef1e1dcd32"
+  },
+  "src.GUI_Functions.pages.ecu_comms_dropout": {
+   "package": false,
+   "sha256": "121594f90ed20e88fa6564a02fe76f58a3e32254b328c99d37780dacbe3dcdfc",
+   "size": 14246,
+   "source": "d8a90a4de3f311212ee4378da79f1c9fb2bd645601723f7ec07565b1203c3b59"
+  },
+  "src.GUI_Functions.pages.ecu_comms_firmware": {
+   "package": false,
+   "sha256": "25772e78c6718d35c2b5ff52178a832cfe38f75a460b428fedf7c29ffe20943c",
+   "size": 57955,
+   "source": "5d3671c2cf8c8c153227538e153e4f6e28b60215219b0578e485f154738afb6a"
+  },
+  "src.GUI_Functions.pages.ecu_comms_live": {
+   "package": false,
+   "sha256": "738503a086c3b32910ec98f14393728e3d857492cb2d38d74291c4d7623f9d60",
+   "size": 74997,
+   "source": "a430fb3f2cceae96d2a856649d99721f81a51c4140731b9bf0425ddf2d0f9eff"
+  },
+  "src.GUI_Functions.pages.ecu_comms_pwlock": {
+   "package": false,
+   "sha256": "b16e8eead3f361562a80cb519b7bd8dca0d5d4a2a54fd9b7b027c6f1465db144",
+   "size": 21881,
+   "source": "91cf8a2c75c2135491690f79d79c6c64afbf84aa1b6d36aa3daccf63979f5a85"
+  },
+  "src.GUI_Functions.pages.ecu_comms_stream": {
+   "package": false,
+   "sha256": "1324ed4a3baed505fdb20460038e655f0c340e60da76b2c813b026e116987709",
+   "size": 5056,
+   "source": "a24c786c72c7105d108c279179dc8b0094a9694ee6d9e78a8092abf8bac75d42"
+  },
+  "src.GUI_Functions.pages.ecu_comms_trigger": {
+   "package": false,
+   "sha256": "cbf5a7e3e3625752ef28a328210ef73c8a83c93d3b76d25178f712f9c6004413",
+   "size": 50799,
+   "source": "f81c26612f11906f0955ee88b0a14e03709fa74715de4a46a62f5f88bcce3fae"
+  },
+  "src.GUI_Functions.pages.ecu_settings_custom_can": {
+   "package": false,
+   "sha256": "14795361da92d17a9d9153c602eed41dff06213ce77dba80f041e800c6bdee60",
+   "size": 57890,
+   "source": "16b2f9575ffc7be6a2c55809e29db7f8bbb8bc4c390130a1d083cec62c020aa1"
+  },
+  "src.GUI_Functions.pages.fuel_trim": {
+   "package": false,
+   "sha256": "b1c128b85f1cd630baaaa20ffa74543d7398a373b7e0040a1b7f7f72a293c19a",
+   "size": 15850,
+   "source": "4ecd7ec09d8bcd63308d7bff004614f5915d3c5a66b9043797ce22a8021eb15b"
+  },
+  "src.GUI_Functions.pages.info": {
+   "package": false,
+   "sha256": "1f7b295f6c968bdf5fee2c35296374015acd97bfc7851cd8f21c7aaf9a54221c",
+   "size": 4405,
+   "source": "8dafd4ea985f18b6465210fd00921817cfe42d14489863de0d90dabf2baeb561"
+  },
+  "src.GUI_Functions.pages.live_chat_widget": {
+   "package": false,
+   "sha256": "c3b17ab253365514c6aa2040bf79b29ea3ea76dd824c3ce01b85f0c24fa130ce",
+   "size": 9572,
+   "source": "f2b331306fcd888b371d49ed4d940bf19d1c39c716bb35d0f6e272145f37c4f6"
+  },
+  "src.GUI_Functions.pages.live_monitor_widget": {
+   "package": false,
+   "sha256": "6595980791fbbd43b493e131f2e16cd6290a1cc2eda3bb396a90daf198fe2da5",
+   "size": 26064,
+   "source": "0b0a6359bcab2a0efaf78f13646680dcfcee969c28de9ca9361b42fe7f29a54d"
+  },
+  "src.GUI_Functions.pages.live_warning_banner": {
+   "package": false,
+   "sha256": "cdb055f7090865cec54f3abafeee9ad2871e49775113bb23d967b7ab800b8960",
+   "size": 13401,
+   "source": "9546106fe2ffdf48919987109b15de487053d9b382dda04559bc9c40d35e9f71"
+  },
+  "src.GUI_Functions.pages.live_warnings_dialog": {
+   "package": false,
+   "sha256": "ac71bf557f7d65f2fcf15672a24ae5c4ad7ba85ce32bbca192d446f223c3d7df",
+   "size": 31554,
+   "source": "25fa75a3beb0a5070b48754c6d6ae410f55bc871c3c8c904ca8a66261ed3456f"
+  },
+  "src.GUI_Functions.pages.map_cal_correction": {
+   "package": false,
+   "sha256": "8be2a50ff3692ddc8f506fceeb3924cbd42cb6255be0768aba911da9b4f2c58f",
+   "size": 5347,
+   "source": "97af332f0e93cf8bcbadcf00ffcea1038b19523d7aa1a75201904dba84cfc0a8"
+  },
+  "src.GUI_Functions.pages.map_convert_equivalents": {
+   "package": false,
+   "sha256": "7fc72ca8d8abb9ea6709aec8d2d455037b73fea0973d4de916cb5f774d9c1ae6",
+   "size": 55133,
+   "source": "e2156619502405cf4350534345bc641b40c388289617ee5f5fdbcad279b78c33"
+  },
+  "src.GUI_Functions.pages.map_convert_rules": {
+   "package": false,
+   "sha256": "9cea13a3ecd8e3bd482207033ffbdf679869d178a7b1507993acf42f46dc46c8",
+   "size": 27591,
+   "source": "0accdd142b3f2e42ac7e3879de4e2bbd53625ebbcf097faabb451b8bdfc21b0f"
+  },
+  "src.GUI_Functions.pages.orchestrator": {
+   "package": false,
+   "sha256": "c7ac5e8eb09b9d872b014df8424ca1fe8c17e4db9b1f24c1d930896404509839",
+   "size": 32965,
+   "source": "f9f341365df37562d19956e0423bb9a06266af5dc496dfb7c9a0a0e6a45df407"
+  },
+  "src.GUI_Functions.pages.page_palette": {
+   "package": false,
+   "sha256": "77fae9ea0e77c093b3039283837281967bd6caf2989bcc49c4dc5cbd1e5375e3",
+   "size": 11682,
+   "source": "69cb4e8fc17a50f1d424b224e9d9eb6a474ccd8aca4e13bfc4afc8f85f456ad4"
+  },
+  "src.GUI_Functions.pages.partner_cars": {
+   "package": false,
+   "sha256": "9a67f078b5ee5b3c37e59b459721aef412b09b6c05e3cce88f22de7009a5c533",
+   "size": 32941,
+   "source": "3f293ea6355f7adb779566fdc88fcf94d170ad74af4234e9f4f3cccf668e3339"
+  },
+  "src.GUI_Functions.pages.scatter_plot": {
+   "package": false,
+   "sha256": "a070b227c3f2771f238a74edbed254732d361813255667577bc466a60f2cb2c2",
+   "size": 26159,
+   "source": "c199fa4d4575369b84b436ff36d9edbb9b54198f868e1302b427685c72671337"
+  },
+  "src.GUI_Functions.pages.sensor_cal_correction": {
+   "package": false,
+   "sha256": "2694a7220cd42c080c363b4adfa0be713aa9c7b269436ea0448591d23828d8ef",
+   "size": 64385,
+   "source": "e9f658c7c5f5650722ba752cac6d628cfb46e00cf94199836ce50c54705b6ede"
+  },
+  "src.GUI_Functions.pages.temp_cal_correction": {
+   "package": false,
+   "sha256": "255ae734bb367344a90ca7803c7a53c134d853f48ed03191eaf54c42607d7567",
+   "size": 8066,
+   "source": "66bfc53858d27bf38dfeda646b581648cf97c96b2041980acd91d0c035475de1"
+  },
+  "src.GUI_Functions.pages.tps_calibration": {
+   "package": false,
+   "sha256": "89aaf6a58844eb1a45c353c513ba0bdb05740e763b059045b89f2344ef572c79",
+   "size": 52278,
+   "source": "e580604b2b0ae4ee6c001a8cb75cc0e25e48a397e7beb4dbf114b5c0a26c13c2"
+  },
+  "src.GUI_Functions.pages.tuner_live_strip": {
+   "package": false,
+   "sha256": "5d81095d27251aac7198d7069ed4e6ec7edd9d4da3cd98e127efc56abb905cb2",
+   "size": 10933,
+   "source": "a1ac75788ec6a06ae32e21144705901af139fa731da86580cf985a26e06cddb5"
+  },
+  "src.GUI_Functions.pages.voice_transcripts": {
+   "package": false,
+   "sha256": "3428c3774a69b11a5a2dd4516fbf85be0041b5ba277277cf64061c270f8141ad",
+   "size": 21517,
+   "source": "1b0d299c8f6f35acd0729bea1a912f2fd4aa649f830ee1ac6e220bb00642665d"
+  },
+  "src.GUI_Functions.pages.wb_cal_correction": {
+   "package": false,
+   "sha256": "d3ad0a2748bc27f586ecfbddb615456ea00aed4210c78ad583c5bd599009a9af",
+   "size": 4474,
+   "source": "927f4e572cd685d757f630f8e26e1b9be63d4b60316868b2fc55f89ee63542f2"
+  },
+  "src.GUI_Functions.pages.workflow_defcheck": {
+   "package": false,
+   "sha256": "50d66035ee3f1431a32bf3c86f6fdea9e430fd68b2a40bd36ffa778a46ec351d",
+   "size": 42304,
+   "source": "e3b072be2f30a1aac61f07f561112ebc13d45d98d4f6bb05b342d2b2d1bd5049"
+  },
+  "src.GUI_Functions.pages.workflow_images": {
+   "package": false,
+   "sha256": "9e88f8a9f75c524912311d6b5f998a8d53c04838183161c0b467b232147ea4d3",
+   "size": 25279,
+   "source": "3df89da96555011d4bc7552a587311cf638c9e228f6a8f730d2861e04c36a005"
+  },
+  "src.GUI_Functions.pages.workflow_inputs": {
+   "package": false,
+   "sha256": "67bb14746f7740e854cdbd025d11872e6126993fac030bab019f48727433c363",
+   "size": 54390,
+   "source": "ed393d3a55592b676e58eb68108d424a58aecc41a79cf8c9b578ab528a44c1a5"
+  },
+  "src.GUI_Functions.pages.workflow_sent_jobs": {
+   "package": false,
+   "sha256": "653cc8037961d93d90859c67e6691cb1f4c7dfbab1400f0860373843b8db2dd6",
+   "size": 17850,
+   "source": "e5cdf4ff8b306955c6383cc421ec474d271ce8668262ca164495c2e0046d46e1"
+  },
+  "src.GUI_Functions.pages.workflow_step_builder": {
+   "package": false,
+   "sha256": "937652c8ce864a8731ae98f769aff5142d665822cadf70643ef272dbf6ff47dc",
+   "size": 259118,
+   "source": "cf323f209ca78867589a14bf529006a8fd4b337f88446aab9e18fc0397773dda"
+  },
+  "src.GUI_Functions.pages.workflow_trigger_view": {
+   "package": false,
+   "sha256": "570c68afcf638a555514b0867fe965d328f18a4a203e6071f565dc8cf1bece9d",
+   "size": 14377,
+   "source": "2db9a56210da95f15d874ba97c5f58e6208c888e6073d9666f8f2d4e8650d819"
+  },
+  "src.GUI_Functions.pages.workflow_voice_note": {
+   "package": false,
+   "sha256": "e71b7e09e1f24b2d2e09519242dbbe22e80e9bc8efeba5d203d55790c773606c",
+   "size": 45960,
+   "source": "ef2b18b1e4da9a49e159631ddbc16bd2fa73d4761ecd661897cd1e6065e25516"
+  },
+  "src.GUI_Functions.qt_wait": {
+   "package": false,
+   "sha256": "27a498c3f7245fbab7c691bc00fc17711e66c35decf08f8295f80afc33b95d24",
+   "size": 3591,
+   "source": "892e9848ac45fbb74ed03a83693b83a27bbb69cc9793864b5163f8e8b6fb4e7a"
+  },
+  "src.GUI_Functions.scatter_helpers": {
+   "package": false,
+   "sha256": "6128f936d97ced479c7a1116c05e2e7f39c4796e1022d11dcbb1f43b38b95c0d",
+   "size": 6892,
+   "source": "5f9fb841384a8054a219086fe601db5ea760065e0d84a53b09110fcdf976303a"
+  },
+  "src.GettingStarted": {
+   "package": false,
+   "sha256": "da1d31e605c62aebb3e7f498bed673d489b07d6aa47ae65d7bd9887bf50190ac",
+   "size": 23513,
+   "source": "a4783577e0045526ea98342b87c010e8b95f7c359cea8ddfd5e99268d9a39721"
+  },
+  "src.Hotkeys": {
+   "package": false,
+   "sha256": "28bc869a2abbe905e0b1a4d38601093d10a1b4d8c216b59e2e74afcce5ecd6b0",
+   "size": 4555,
+   "source": "d281cd2f3511c79a35316171570a48590a2fb1cc135e3622ed8ab6a7280636f3"
+  },
+  "src.Idle": {
+   "package": false,
+   "sha256": "1cb5e341d201a8ce8bf18f857ad30b6f0a98dfe5ebef6c237d5c68c22a6604d0",
+   "size": 32544,
+   "source": "629fbbe15c046c532091b93475603b3e28369b3c8a5bb18702b1fc9ad0afe710"
+  },
+  "src.IdleAutoTune": {
+   "package": false,
+   "sha256": "6eabc197e7ef71eacd036e86f9eecfe3457a4f687db6389942d3751d85f34b2a",
+   "size": 25984,
+   "source": "411cfe4a468065df44314f336ec5cebbcea1b2986f5304adb7fe405a20ab7193"
+  },
+  "src.Ignition": {
+   "package": false,
+   "sha256": "f7e5a7030f01eafcf3f486707af8575cdb7cd4addc9c3b86742a1ae1cf9b8241",
+   "size": 53228,
+   "source": "5426689bc72b98e84ccea46a3efcf8f436656821e19bffe074ad74303f488c0b"
+  },
+  "src.InjectorDuty": {
+   "package": false,
+   "sha256": "401b3cbbb611e0ed2277a2cd3284295bf9e4d0e2228363cba8c383f106bb01da",
+   "size": 28211,
+   "source": "40c172278f7ddaad6bd235ddd624df3bce751ae99635bc7e669a198709bad0c8"
+  },
+  "src.KitLicence": {
+   "package": false,
+   "sha256": "ddaee3358faa19c1e3f167888f76a33aec2d7c8c4c29175339832440a257ed28",
+   "size": 14378,
+   "source": "d003df4af725bc2d15d0e5d6e8b402065a38a2ab96105339fe3d7e3f1f0b818f"
+  },
+  "src.Knock": {
+   "package": false,
+   "sha256": "8b9db31446b5381dcd991c10e8805610756297c62a01ca458154509ad3c2e2e4",
+   "size": 58138,
+   "source": "d165419c8f2ac3507d2537365628ec1e9925855bdd79f6b146240d2d3ace57a2"
+  },
+  "src.Licensing": {
+   "package": false,
+   "sha256": "f5fa602a89997b1c422cdf11ebc0207b83f9cc80b7ef0945d9db9c527befa25b",
+   "size": 42266,
+   "source": "27fe9b21ad702543423486a84ab55fd92a365e2d4eeb1d5c259da3a3a4e7a613"
+  },
+  "src.LiveAnalysisCore": {
+   "package": false,
+   "sha256": "f199caab0813a23f9f595cb6072d42842d760fac6d3c31e10e9386617b3f7f54",
+   "size": 32100,
+   "source": "bd08f080f32f69a2fadd80ac762d562f36820229aa7e5bec95c64347b30fdfc6"
+  },
+  "src.LiveAutoTune": {
+   "package": false,
+   "sha256": "b72c6eb843217db9db9bb88f44df8cdf7fcc5ba09cb0c6f7b9b9bbe67456b2ce",
+   "size": 89858,
+   "source": "fad88b3d82a84db6115a4c3df9fc6f189c716002c66f7bfb5793dacea22626c4"
+  },
+  "src.LiveBooking": {
+   "package": false,
+   "sha256": "bc8772f62166c80dae56d92c1c2d1a8f0829aa157b0d2fa639eb96f07889b9b9",
+   "size": 31029,
+   "source": "1e1a8a32b5a56b08601065e91ab7ba470606ccfa63cd7fc50424be79bf9f3940"
+  },
+  "src.LiveCommandQueue": {
+   "package": false,
+   "sha256": "11d4ae20dafbe0c388ad4923fad387a74fd879991a58b4be67f32a76964d598d",
+   "size": 39837,
+   "source": "191341f60d44e70d642c2caf8b182cf5058dfb0a29f698dd4da756bf7fd8541f"
+  },
+  "src.LiveCommands": {
+   "package": false,
+   "sha256": "ef53f9ff24d52c9b7a14689a4013f36750eb0559c6d5b047c786180e118bead5",
+   "size": 25052,
+   "source": "f542e2fa63c5c0b0206b7d8d7f749b3d663c4dd266a71ff04b825891f1c0fb02"
+  },
+  "src.LiveDataView": {
+   "package": false,
+   "sha256": "b21f4225a67221e1df0e7097fdb87aa37ea2e22f65ff6bb8186aa06b9e12fedb",
+   "size": 47626,
+   "source": "5a4a50e4c2740ec28e009c63d6cf21b5fabe67a7ed9f3bbc28c18cdf4fee5f31"
+  },
+  "src.LiveExecutor": {
+   "package": false,
+   "sha256": "877d4deec32f019a09b64d6ac9b8f7a68cfce0adcfd370ff2e400aa7cf2499ae",
+   "size": 32958,
+   "source": "bb4c9f72dc3c2b7377cd355fcfab88444b0a9a93fc8202cfade85a88921e5b01"
+  },
+  "src.LiveIdle": {
+   "package": false,
+   "sha256": "9b74e108695ee12e2b672282308a50890e74a7d5ecca5c7bc7a2d1d614b7006e",
+   "size": 24249,
+   "source": "486d30bc5636840172083b0898f1e5f3a67cd0711cca9fb0b6c80d007aea2604"
+  },
+  "src.LiveIgnition": {
+   "package": false,
+   "sha256": "087a893b3a4963e65fd1b40c55128c2d86c1100b4884d9db4ec9eccdf5c4676a",
+   "size": 46089,
+   "source": "e42dc6d8474db070546b9b2227145c5b56eefa01db6c451282c3d9b1b0c53059"
+  },
+  "src.LiveIgnitionGate": {
+   "package": false,
+   "sha256": "07232649bb5804b7ba21048f3f2d2d987ab4f6a92075b045c92a175e912f9d0d",
+   "size": 38694,
+   "source": "956f1a10574077ad860c7d3c974c6a031d039a0cc1ffc6dd6def7f5feb9d8a1d"
+  },
+  "src.LiveIgnitionSession": {
+   "package": false,
+   "sha256": "18ade4dcfc008a05f72b70ca77540ffcb8941abdca10c4853024d65cfc233bf8",
+   "size": 17931,
+   "source": "6b40e385ce3c9abfdacc41a879117ea647007ef64c155953cedbebaa21c207bd"
+  },
+  "src.LiveLink": {
+   "package": false,
+   "sha256": "3bcd246551fa7c1bd3def32a1b822d4689b87fdcc2a330bd3b793ab0fc89a8d4",
+   "size": 45083,
+   "source": "79c3be3c69cd0e08ffe342f91b5f32d34a5a9ec077320f0721e1f394f566a8db"
+  },
+  "src.LiveMapSync": {
+   "package": false,
+   "sha256": "5f54e71fd1348d10f27a7ff130dc896a83c8e7396c4a3d666b5c0aab8c1470b1",
+   "size": 16733,
+   "source": "fbcf588602f27a159e9804b0363b6337edf021dc00979fb16b1ef45bfdd04b9c"
+  },
+  "src.LiveMirror": {
+   "package": false,
+   "sha256": "8376b5562b5d0d4adec42da3992acba211381298cf92b8604296b5b4ce55617c",
+   "size": 33769,
+   "source": "3f484e5731a7b6f689a2ed391739939935a660ecc52e03af4e967d51a4a02598"
+  },
+  "src.LiveMonitor": {
+   "package": false,
+   "sha256": "1648a316124f057ec2d63640b5049fd008c6a1bd4dfa503a266dd41efa670d24",
+   "size": 25585,
+   "source": "77c2e7c1fa2c5643075c4313201e15422831a8a8d80abd9eb07c1dd551ec6c71"
+  },
+  "src.LiveSession": {
+   "package": false,
+   "sha256": "ad4c8f9c54a90fa090c0f09775479cec8eaf43f618a9f0f5a9e21d7f40b6eaca",
+   "size": 27996,
+   "source": "1fdf116fdc6158f16f2cf2736673f19ef6eaabe79c2cb86e5e634f7c1cda90d5"
+  },
+  "src.LiveSessionHost": {
+   "package": false,
+   "sha256": "8d328a662e57658d856e05bcbf9c9021fe6a75c400950d33b179bb51928b7b65",
+   "size": 63982,
+   "source": "caacb42a60d73d09829d58d6428314f8769275d27e77e079e5b3456fd5a17578"
+  },
+  "src.LiveTail": {
+   "package": false,
+   "sha256": "8a5024810e5624b3037dab90567b820de2709fc0c19a4cd51e11ebb17b834a53",
+   "size": 13861,
+   "source": "3b7a1e4f6dfe118e9cb7339ce9e3cb8250994ea8a19e420fd32298a026b1f56a"
+  },
+  "src.LiveTuningLink": {
+   "package": false,
+   "sha256": "3d7bc3c7f40988938a76ed6f59166b5d8afe8d1613a015e0456fc5e32997ca8f",
+   "size": 33614,
+   "source": "c753ecfd4ff3d2e54176b009aa6879b8df4e16be47926316a63b3b1dba25e992"
+  },
+  "src.LiveUnstored": {
+   "package": false,
+   "sha256": "d3f5515b2b7c98fb93d535198d2c8f3e04e2a0c4cf41c089a571a15d01f2832b",
+   "size": 25287,
+   "source": "e54b1f97d0368037bd18dd0db1feae8645471f6e2e03b9edccdf48ccb8c2e26a"
+  },
+  "src.LiveVE": {
+   "package": false,
+   "sha256": "6eecf17f5f3da2d489493f70097a71f015bf426bb19bdff4315ecfda0cbd3d5e",
+   "size": 73154,
+   "source": "09bc6f8a35c3ed42998ba6534814f9e72c4598d8fdc9a18e415f32d7d5c2de8d"
+  },
+  "src.LiveVEGate": {
+   "package": false,
+   "sha256": "6ce8c04cfce9b6ab7e73fbd90019b000b36696c08700420d93f00c95a27ced50",
+   "size": 34355,
+   "source": "ae15ec9c9f9b7da6798a3e1e6fce2d8a5ece13b0bb01109e74ac77f2eaa07703"
+  },
+  "src.LiveVETps": {
+   "package": false,
+   "sha256": "10a5bedc8ac7ebf987fc9e0d25e992286ea3027a7406bf95378b34c0c18a14f4",
+   "size": 40238,
+   "source": "3696ec28ebe5603fa76fc19d2233698163cab2f6bc7c8768590987ff4d1af9f7"
+  },
+  "src.LiveWarningWatch": {
+   "package": false,
+   "sha256": "e7a75bb3826902ce2d65312f8781cf6c58fae2f14e26cac3dedaa66a519aa910",
+   "size": 35276,
+   "source": "725091bd9860171dc12343264df2b162ce13522aa4307c08045ff4eb9423c2e7"
+  },
+  "src.LiveWarnings": {
+   "package": false,
+   "sha256": "db70a6aa9eee6241b6bde35ea8e5ae2e9232e09017880f2cc8a33987e33897a8",
+   "size": 87924,
+   "source": "7343b05e5f68d6cd433ab7a163a36a49681234a410a72b8b186ca61081aaedfc"
+  },
+  "src.LiveWire": {
+   "package": false,
+   "sha256": "2c1e8e47b9528caed72c1cbf8feda37713e2ffb6ca3d150f00954221d8d558c9",
+   "size": 27680,
+   "source": "9155fa0d7a36b4f3f3fbce4c65aee69aa44cb9589ab5c02058ef07e038f3b897"
+  },
+  "src.LogChannelConfig": {
+   "package": false,
+   "sha256": "14b7139d5bdaac4e47ae61f63c6b2db270348535fc72f78d28943000f02cd1ee",
+   "size": 18130,
+   "source": "478d68a49d3859b05be7e5b5a09d467f2c34448e5246d8a7f42538a7d14bb85b"
+  },
+  "src.LogDecoders.ChannelMap": {
+   "package": false,
+   "sha256": "070c06619c03901018a1b47eb98ccfacefb54038bca4ac1c090a13874937eb70",
+   "size": 39702,
+   "source": "b65f4bdf49f7206e1bb643df24c7ca87434ae250d702e712b48876b101d7dfc2"
+  },
+  "src.LogDecoders.ECUMasterLoader": {
+   "package": false,
+   "sha256": "ebafee149f1dda6ff1f155939db4f9e596a48fb92b011ed8593f04f94043f96f",
+   "size": 6548,
+   "source": "75296e603ece93415804940cda81771118b90a55ba8472381af568248d704d43"
+  },
+  "src.LogDecoders.EMUProLogLoader": {
+   "package": false,
+   "sha256": "0acee8579146001de858c589c5465f194f3606ba7af9480a96dd98bde4d32f9b",
+   "size": 58592,
+   "source": "78d7cedd32825ca7b76e04e52318bd625da1b1d1273285d7fd929b6238b12e51"
+  },
+  "src.LogDecoders.EmtronLoader": {
+   "package": false,
+   "sha256": "080b8bd6e58dfc064fb22a048e9c5c4e161765552f42d255a61267f018d802f0",
+   "size": 19167,
+   "source": "0d95d7d2739e425a91b90f9c43ab9ef53aca17426b608075d900d992c2c72ce1"
+  },
+  "src.LogDecoders.HDF5Loader": {
+   "package": false,
+   "sha256": "9987ce7bdbed0e24fa5906a21575b7110fa396c019e736b6eb9b6f13f4683c27",
+   "size": 35578,
+   "source": "c5f43e9b95f0ff922196ad79331fb41678ec3f0bcda53f4912dbee62a2ac7118"
+  },
+  "src.LogDecoders.HaltechLoader": {
+   "package": false,
+   "sha256": "9cfaa125500998f9cf3ab8354c713588a649230ec8e5482db5bd1d86c9b94da8",
+   "size": 35588,
+   "source": "45fc8ee48b76285bfe6cb407d227acb77692952251e07e6e7777bf80266b336d"
+  },
+  "src.LogDecoders.HolleyLoader": {
+   "package": false,
+   "sha256": "3724423b3828d7450258c8656bfdebb1276f086f5bcf11dc590f2bee76e7995c",
+   "size": 10253,
+   "source": "88a82c501fb07280cf7f606d5f209081caaeef95a1ddbbad7951d4842f39ff1f"
+  },
+  "src.LogDecoders.LinkLoader": {
+   "package": false,
+   "sha256": "762d43fbe6761665b7849578f958230068485c34208fea5ed605135758293397",
+   "size": 6419,
+   "source": "95b8e1a3265dca92ebedd98f6f4be7f8f6ff9d5d518a0146170a383e36cced9a"
+  },
+  "src.LogDecoders.Log": {
+   "package": false,
+   "sha256": "ecb3ce36e19c88d6ad2c3149ff40255dd3c23d4cd96c235d05045f389c5a3789",
+   "size": 55748,
+   "source": "90a60911a4890bb7d5216214c2bac7ae0e4225a42b49d581e227882ce64c5ec8"
+  },
+  "src.LogDecoders.MegaSquirtLoader": {
+   "package": false,
+   "sha256": "6e87bbef689ff0e27124a89d6b67360d0071cad938ea2de0dc386174addb61a8",
+   "size": 4686,
+   "source": "8744e8fe16b6fd64031d6072110ab15e3e61d8175f6243bcfd602c729be213f1"
+  },
+  "src.LogDecoders.MlgDecoder.mlg_parser": {
+   "package": false,
+   "sha256": "bbe007150932973e1be70cbd064e0944d72d072d05adfc81e71e383d438638ad",
+   "size": 26239,
+   "source": "367c83f87c1cb48943e406ce03987de9ff7709db7227c708e0acab57a7f537be"
+  },
+  "src.LogDecoders.MlgDecoder.mlg_types": {
+   "package": false,
+   "sha256": "fa9ebdf0631d19a55dcea77c6c7fac1ebb83063b1c77a120626569f96b8a40b8",
+   "size": 7338,
+   "source": "a85669ea8002e94d04a281327c276a3a6b6a2ab5fd705f4f139fb2343c3add46"
+  },
+  "src.LogDecoders.MotecLdLoader": {
+   "package": false,
+   "sha256": "1c9dd1bef728830a88d2e1f8554025fccf923000b3aed5162f3117833dc4dfe1",
+   "size": 15227,
+   "source": "d7bd71dbd3e999322e647043ebeefe37014385b94110467a1fcbc0cb605cd612"
+  },
+  "src.LogDecoders.common": {
+   "package": false,
+   "sha256": "2cfe770b3f76cda07181aa927f9c91567807ed46c983d1204adf6b437cc7b50b",
+   "size": 10483,
+   "source": "863d5676d6e037c49a39d009fbfe4bc026e0d45cb3d2fb3c486e731242c5115b"
+  },
+  "src.LogDecoders.holley_dl_columns": {
+   "package": false,
+   "sha256": "b3bea8ed159e6c8477ef4a63dea05a4b6c9200e092ec3cc506d9cd9772bd3f9b",
+   "size": 30575,
+   "source": "2a9ac319d9ac53e0724e3ea8ba22753736766851542638baa019e27ffff92a29"
+  },
+  "src.LogDecoders.lz4_frame": {
+   "package": false,
+   "sha256": "7d59ffbedbdd949d6614658451bcf4601d048486bbd24ad2569a1a876eeec861",
+   "size": 5668,
+   "source": "2cf8f8b8685fcc849762894d61d310da48aa19414388466df3a911a95a4ed2e4"
+  },
+  "src.LogMetrics": {
+   "package": false,
+   "sha256": "211ce3a44d53330989356aee451cce1b8e93d01cc24a30df66942fa554ea5841",
+   "size": 38587,
+   "source": "45e655f5d86dad7db268bcf6210442eba1f2761646c2c3c6dac55749b185dd4a"
+  },
+  "src.LogPairing": {
+   "package": false,
+   "sha256": "096b1f97769ce6fc1cc8b49ef76ad50b7f3cac221a12bdce1ad67a2b2311c301",
+   "size": 59869,
+   "source": "82e777a34409ed3ad6363d340f272439888b9ac71fd050ef0c40597e64c90b6d"
+  },
+  "src.LogPresets": {
+   "package": false,
+   "sha256": "099d44f54aa58fd0ce63a215a5d119f8a77b5d6c42ce8e0757c8e706b2d2259c",
+   "size": 18693,
+   "source": "9e08d49f4f7b73e91955ed8ff8c5b55e55a08b97db83b2da4089ff0316967b8f"
+  },
+  "src.LogView": {
+   "package": false,
+   "sha256": "d606394fc5714f7016afbe9ef3c76f1138955d34b5b799c82877f2823491a05a",
+   "size": 41979,
+   "source": "f93520a255239d722cd0614a7a7a59520365a52b6360f085073833a8b3fa411b"
+  },
+  "src.LogWarnings": {
+   "package": false,
+   "sha256": "41ef699c0129a1bba39f65b8f3f223080db8bda128d0745045b50b7e723b0c83",
+   "size": 113405,
+   "source": "d37caf45bd23ac9bb7fe4da7df6665ef12e20243cc090b433f0740b7ccb3dc8a"
+  },
+  "src.MEComms": {
+   "package": true,
+   "sha256": "ebb8cd236b291e1f97637dd5169ee5ff27d26cd43693786ea33b72d1583a7501",
+   "size": 3904,
+   "source": "eee107ba96f9fc8b2e47c27522169d73bcb10ea1d86e444dd8d10112c9536cec"
+  },
+  "src.MEComms.baseline": {
+   "package": false,
+   "sha256": "e8bb76fd324939e59443053dbadc4d02253f2fceec1852ba39006d7d32468cb9",
+   "size": 30465,
+   "source": "a991f045f0aeeaf6aa907d4c0f9952069f128a5171225d057d88608da3e98fa5"
+  },
+  "src.MEComms.build": {
+   "package": false,
+   "sha256": "4e4c1b08abf4d86763255f34884fddd93018acbf5e1f2ef3824dd978da0b41a1",
+   "size": 48298,
+   "source": "1f522057eb39c638a838dc57b98a59ba75fe639fa4d673147c154b3ede01f0f3"
+  },
+  "src.MEComms.capability": {
+   "package": false,
+   "sha256": "817e90bd3d3940708ff61f8c0c457fb56cfec07be0740bbed876226e7913680a",
+   "size": 15952,
+   "source": "6670cc8f07fee604674fd1341c8deccc846a1f5d5f0a6cca7ed6d5bb2bee23b1"
+  },
+  "src.MEComms.client": {
+   "package": false,
+   "sha256": "5af43987f62ad7604f66e563ce09d02c8f409e4ed2e75a67a929bb2edda67b4d",
+   "size": 34973,
+   "source": "db7029cb8241e7183aae85b0f3359b4c158bf6ea9364e7551b50bb15a2103d2c"
+  },
+  "src.MEComms.connection": {
+   "package": false,
+   "sha256": "f77483742c906310887683a7fbc416d91b0eeeeace479babcee72970fcb84371",
+   "size": 21359,
+   "source": "a717cae2b1edc458c83b53e3d84b3f3afa9f2704a9893f7676601659e982ec62"
+  },
+  "src.MEComms.custom_can": {
+   "package": false,
+   "sha256": "813ac6a00c6784f67824a2661726887a682710003860d825bd31089faf3816a7",
+   "size": 34267,
+   "source": "33412ac1ac42422d8f5ccdb71a77eb2ed9114cb59a7e5a949874f691f7aced9b"
+  },
+  "src.MEComms.datalogger": {
+   "package": false,
+   "sha256": "67dacd7fa654b4fbdaad39cea1206dda82b4eb544cfb203d0680d64fef020f83",
+   "size": 70576,
+   "source": "af433f581d54c4af54d39e0231086e1b67458ef28107accedbdd619f7ee5168f"
+  },
+  "src.MEComms.deferred_store": {
+   "package": false,
+   "sha256": "d5b9b11fe0d68db5951d90eb98cfa8abbfefc733908a8b3c0ac092cbe8b09c9d",
+   "size": 47689,
+   "source": "bf0699b8ff386a0891024a52c99d95a5aefc6a194b19de2ff1dd2188ee064913"
+  },
+  "src.MEComms.definitions": {
+   "package": false,
+   "sha256": "d63ebeb862af828dcce1871fb66e58af94170726ced90525b8f65aca5a6fb098",
+   "size": 44792,
+   "source": "e4c7d5386e2b50bd8d7e3c00e07fe8cecef4017edc05d9d7179a9b5389086df2"
+  },
+  "src.MEComms.firmware": {
+   "package": false,
+   "sha256": "eb415cd2e46a6a3fb8178b27110da6e62cdfc67a94cc2300dd0e9d5bb8849a8b",
+   "size": 58825,
+   "source": "8a063b5d3f142d6369c67214f0c25a20f0bf6c17c4cb374c2cb579c7d82a2a79"
+  },
+  "src.MEComms.h5log": {
+   "package": false,
+   "sha256": "afb86d0facdbc1c97f74630d705b2848efcdaa5908cee8c51a6f240b9a993a0e",
+   "size": 69732,
+   "source": "ed127f00709b6bf70225129ed69394c9ef789e21ff0c3f225e22a12fa6f61c5f"
+  },
+  "src.MEComms.livebuffer": {
+   "package": false,
+   "sha256": "75d2efd97fc8f44cf8f79a61dc375b5be13eb3d0287d9c791006891efb87071c",
+   "size": 14475,
+   "source": "164cdc5fb3526c627c6f67f18f2e02dbd4069be770ae4c754edc11d360274ada"
+  },
+  "src.MEComms.ports": {
+   "package": false,
+   "sha256": "ddfae57e89458c086346a9cde8a301943e1612a9b07f464380c608fbfb6eba34",
+   "size": 38685,
+   "source": "04da0d125f3aadb2578bccd4cbf19ddaee41be1890ee2e2753876f94b0095240"
+  },
+  "src.MEComms.protocol": {
+   "package": false,
+   "sha256": "10ac6b75469eee90993fe5de163b197b81798b62ebc18bac61aa9cc8406a34a0",
+   "size": 92816,
+   "source": "014b66514228bfa593749fcc95f7317286aa5952c7af0048fc95e7e10ef81713"
+  },
+  "src.MEComms.pwlock": {
+   "package": false,
+   "sha256": "ad351cd72c9aea38a551fe2b17631bc298f77f03feeff9c4aed85d3e686342da",
+   "size": 11853,
+   "source": "289a6e8526f1634ad6d57c94ab77d7c41c12eb11696bec1753f954792ccbdef2"
+  },
+  "src.MEComms.streaming": {
+   "package": false,
+   "sha256": "01db73684c97f20de88533b6eafc1b6e68cc470c97bb87db922b249e4be1f8a8",
+   "size": 36867,
+   "source": "230c36c1a0b95b538b726d66ce47d82ccab0509121eaa959aad72b59a66d79a4"
+  },
+  "src.MEComms.sync": {
+   "package": false,
+   "sha256": "1e8a7fbd00f309c281b0a81914c84228dedda96ebf778137db76cdd7070ff18d",
+   "size": 110513,
+   "source": "e93e68f53026699b4fcf37897d11570697b368f77dd959fd9fbc1284e1aa15ee"
+  },
+  "src.MEComms.trigger_geometry": {
+   "package": false,
+   "sha256": "be1e91dcd0134e18e58bb6900a938545260f70cfd2d521e59f0f35118ef1d688",
+   "size": 15666,
+   "source": "408e0f237a5bd5ca93990c34fe17eb876ce65d28146ddaaf93609d5bea8eff78"
+  },
+  "src.MEComms.triggerlogger": {
+   "package": false,
+   "sha256": "4113516bec9676344a3cf38d06be43163a8eda1d73e2f74be4e8ebe128447a25",
+   "size": 39305,
+   "source": "a4dc8880deb519a92080f13aa317457f3a88a78dd22bdc6223e458f598bb2471"
+  },
+  "src.MEComms.unit_stamp": {
+   "package": false,
+   "sha256": "47e5c04704e0f93f6f27f95babfe7c147dc309e9cff7231f68d39cf4ff604e04",
+   "size": 8732,
+   "source": "12b45c2845c7b9b5cbb27dcda2dcc5f6c0e4b5e576da9043a1e13a818c9c9bd8"
+  },
+  "src.MEComms.virtual": {
+   "package": true,
+   "sha256": "dfd7a0b5b694d9345583d7b4952eb95aba1933c6bab6cf876d8d02a78bbf6860",
+   "size": 6046,
+   "source": "1b769a00b152a215a6dd0e6cdcf7f4a245fb891a15d642f50f03e556110d2cf0"
+  },
+  "src.MEComms.virtual.brain": {
+   "package": false,
+   "sha256": "90f4f1456bc5a76435b47c858c7788a7f45931b08cd3673a15822b505fb2ea18",
+   "size": 69337,
+   "source": "f8e95444ed4f5fc486b97d68f5f4e324e6d510681dceb1e3bd06ef7adf788aaf"
+  },
+  "src.MEComms.virtual.channels": {
+   "package": false,
+   "sha256": "840361e233588a356ffc1bab7fb01f59f9d6194ded49873f4d3b1193bbc83b6f",
+   "size": 16248,
+   "source": "c3c8261aa6f80f32ec5b2b3b5796f422a5efe8d920795b1ea1e5633630d385be"
+  },
+  "src.MEComms.virtual.controls": {
+   "package": false,
+   "sha256": "8db143a652ed4c227617454a8d3f0739fe0c37d630b5de94b7793cad0cc5ed1e",
+   "size": 15813,
+   "source": "df5676806d80388f235f36ecad32fb62399c14edc4f91f6eec1a821e62b255be"
+  },
+  "src.MEComms.virtual.device": {
+   "package": false,
+   "sha256": "5326ece7808678e16f90af8f2feef6d345e4430017ce7dbc5629d0771d6f0e53",
+   "size": 80315,
+   "source": "4ed3dbf6ef89642bf84942e3555fdfe2e2271c05f4e130aa9090e25817d60686"
+  },
+  "src.MEComms.virtual.image": {
+   "package": false,
+   "sha256": "c442b0cf9499a147fbb843ead0cbc58189d8697d01772b78d3c6876ebdfc26d9",
+   "size": 27737,
+   "source": "7485452981f58243eda09e7de5771cb170dc1400d56df1227aa51516658a57cb"
+  },
+  "src.MEComms.virtual.model": {
+   "package": false,
+   "sha256": "465b4465629fb9dfa6b65e0b167715ec96eb25149e7193aa81c552e147588892",
+   "size": 56963,
+   "source": "69118ab5d72d34aa284ee7a0ce103203bdde863bbf04e3eeb4ab22d28a25a990"
+  },
+  "src.MEComms.virtual.registry": {
+   "package": false,
+   "sha256": "acda3f87def37da451b8ab67aac133dededefd6382485e3481c0862e1fb799ea",
+   "size": 9383,
+   "source": "3f5eff2606f7fe29f4b94425c3d3229622a2233fc355add5e35f7585d27cdaa1"
+  },
+  "src.MEComms.virtual.replay": {
+   "package": false,
+   "sha256": "3a09fc388238dde24b4d682783fb9413e217ecb8beae331660d93601b2606a9b",
+   "size": 19169,
+   "source": "6b4cae458c6d5631f567ef433e23c5b184ab8f1f71c8c5ab7cedcdacd8449809"
+  },
+  "src.MEComms.virtual.trace": {
+   "package": false,
+   "sha256": "c38c4377be49acb5ae469ae4d76dddc9f83cbba0db2c5e5b1321fb5de2330424",
+   "size": 30279,
+   "source": "0f0e2d88c4e6331863df8abec0e2e75859166e282d04f632cec2f517c917866e"
+  },
+  "src.MEConvert": {
+   "package": true,
+   "sha256": "1fe37dcdc32c3ec1d93cfd96c0e6aeddaa5a0cd7a00bd58fdd91508781eef767",
+   "size": 2436,
+   "source": "f5a4c7eceb3cc4786254c8fccc1233662e2d97fe92d281c4c7c9b7f013da9586"
+  },
+  "src.MEConvert.convert": {
+   "package": false,
+   "sha256": "a3f42dd65edf78ded354e2fccc87cde059490e0c5b7c565b5e11ccf08990a5ed",
+   "size": 18375,
+   "source": "b50a50079906f294f15c24b67744af1d483736a00cf141e5518aa65abc88ee55"
+  },
+  "src.MEConvert.families": {
+   "package": false,
+   "sha256": "8ebbe5897365a6405d8c4459847118e49b8323ca03fb854c5a7e255711e97167",
+   "size": 12684,
+   "source": "6c072248c59fe6a4e42be1c71f2e67283a505549b2719492c698ea2849e3b26e"
+  },
+  "src.MEConvert.gaps": {
+   "package": false,
+   "sha256": "61a97b73ea4d47f86ec1567f09a45c43ca1457d5d09097c825dd558f744a53ed",
+   "size": 21810,
+   "source": "a65ab3552379cee461df9eb6db8fe5cf90dcea1240d2db7027fc91d184ae7c82"
+  },
+  "src.MEConvert.mapping": {
+   "package": false,
+   "sha256": "4a60b34a5519338cd6345c3c905752a30f010c4164ad9fed25d492adc14a0507",
+   "size": 36239,
+   "source": "5f8ca7d24d162a11f1a3dbabe0ac96105690b641f7922a9b8c7467eb6d61ece8"
+  },
+  "src.MEConvert.pins": {
+   "package": false,
+   "sha256": "fd4fbc5eedf864e2ac4c85d2e1f1a284d71a1991bf4d37c69b8d8e81b98d53bd",
+   "size": 16951,
+   "source": "767c52cb9e6fc7804e3d66cd243f5da4ff9d59f70270d4b6142e0a417d23baff"
+  },
+  "src.MEConvert.plan": {
+   "package": false,
+   "sha256": "352d7465693ad20bc6327ecb20893fe77aed190fe8638a7e5becfb710b8b242e",
+   "size": 141938,
+   "source": "580bb375935aa184d1badae0b1e3c6c3b3b971bc01e9757ab1620d483799ef8c"
+  },
+  "src.MEConvert.reference": {
+   "package": false,
+   "sha256": "0629b88084c617869fc9a0479cb1c3d1e04c8e2ac29905352e0d7fd1cf3ae183",
+   "size": 48592,
+   "source": "938c7021e4d64875f482b1ecf949c70fcdbd23cf1f068e3e845442098ac418f6"
+  },
+  "src.MEConvert.resample": {
+   "package": false,
+   "sha256": "788df4cb2dd271136027bb64cdbb5ae2de43cec4219a3da4b7356d5e3b832864",
+   "size": 10477,
+   "source": "ed300fa61d7dd3d195b2628f01ec4b6a53cc34d00628cbec00134a28eaee977f"
+  },
+  "src.MEConvert.source": {
+   "package": false,
+   "sha256": "b9ec98f30d13317eb89f329d479efbc41e3b3b2fab84999bdf2a147598cf0a96",
+   "size": 29760,
+   "source": "d54e338da279dc4ca32b559736fcca3d51ca151e75ae6db0250b23e3462a4cfe"
+  },
+  "src.MEConvert.targets": {
+   "package": false,
+   "sha256": "aa250901760c8648cdd57165a67670204301d0aec02dde6e9bfee1dbd94287e2",
+   "size": 14291,
+   "source": "53cefdb92ce516a360c08bd93c727e4070ca7d6ddd53e34aa06c8e705362936f"
+  },
+  "src.MEConvert.wiring": {
+   "package": false,
+   "sha256": "4d046ac34c639c64ee791383a4057af215356564d81227e7f1f6333fc590d6d3",
+   "size": 23177,
+   "source": "effe4a97b6d8f68e2b57a5b50ae52f1c1421086c37e2804fa12108c9025eb161"
+  },
+  "src.MapBuilder": {
+   "package": true,
+   "sha256": "ae5462b05e3196e4fb0da22ca433caf4af603012aa3570acd6b22100cf49628e",
+   "size": 2055,
+   "source": "7897a8410b366437160a661471a8203ce199efe8e682c2c643d15c671470e8cc"
+  },
+  "src.MapBuilder.data": {
+   "package": false,
+   "sha256": "3d15ba69e9203a7ccb9aaf98cb501443ba9d7dcb0aa52a3076ecf94360f0bcdc",
+   "size": 19053,
+   "source": "6957f054bc337eda409973270f1dc6fa780238a14e32ef7e4cd5e7f57ba51ed8"
+  },
+  "src.MapBuilder.dialogs": {
+   "package": false,
+   "sha256": "072afd72cf3fcb89b3db32c4c9847a8744e8ff07be4d125b3987d66e6f1d4b5b",
+   "size": 30047,
+   "source": "5249668911cef04509805fea0f4d3670bffe1f0f3b60213c0b7acae0d948508c"
+  },
+  "src.MapBuilder.dsl": {
+   "package": false,
+   "sha256": "859269aca1a4d01a1030c67ae8e410b9724d4c1ca1136c23e7f51e07bb0084f9",
+   "size": 57909,
+   "source": "1f5261f8505c2f80c7a3d29bd329b3fbc2281cc31df0882d01e4a6b99a73efaa"
+  },
+  "src.MapBuilder.evaluator": {
+   "package": false,
+   "sha256": "3680a4fb6d601f17ef01b8cfcc54b360fe9fe35649b82ee0ee78a295f8b95a9e",
+   "size": 62532,
+   "source": "869e9f7a35d0c9b1840abe594dbf3d64d6d8f578d2d9670d502fab7ab687d087"
+  },
+  "src.MapBuilder.io_profiles": {
+   "package": false,
+   "sha256": "fdcbe103e1de4e5db94276dbd2b5272eb124542f07926b4bd5eaef558c994bf7",
+   "size": 55628,
+   "source": "bcbfee2f3b5d2ff9103c87bde928f5388ffab09d5c5a3dd8d694b5a1588c2b8e"
+  },
+  "src.MapBuilder.io_review": {
+   "package": false,
+   "sha256": "1edfaa518beadc9b28051e5d0b257f207719e732481b05969bcff7b3d2f45ae0",
+   "size": 31187,
+   "source": "abfdbbebbc014f45071379028b5914731a263d569169cbc1a355804be56b3aee"
+  },
+  "src.MapBuilder.log_values": {
+   "package": false,
+   "sha256": "f692afb4ed56cdfd0cd6984b68dd893b76bfebee23bdd721171aeb9659b61b94",
+   "size": 6797,
+   "source": "54162b35445fe52e60e6d9c0ff37c12c144e86e0e475ec1aa9d55573a8d288f2"
+  },
+  "src.MapBuilder.map_identity": {
+   "package": false,
+   "sha256": "3763883dcaa2a36f490d8b45d25020ae10882e04bcb91850b23d470057024d65",
+   "size": 16395,
+   "source": "ecf081324db7dccbc12dd194e320273315035249ba59d4bfaa9cf94302b30da0"
+  },
+  "src.MapBuilder.map_source": {
+   "package": false,
+   "sha256": "d5f57da09bb626492647b45009e8f76d415b31c080486a4cc2213f5c475fe816",
+   "size": 7160,
+   "source": "1d787b240b53bce436b3e80a63972d0d67bfc9eda5f3312922d2643917c1fc61"
+  },
+  "src.MapBuilder.page": {
+   "package": false,
+   "sha256": "6390dfbb37d109cf15c4c602b7aa9d5d8c4eb6c78f9111e1991020e1e747f473",
+   "size": 180285,
+   "source": "fe3bcd977be091d2d938b0f471b89718d8c39931843792cf66307dfc2f923cb1"
+  },
+  "src.MapDecoders.EMUProMap": {
+   "package": false,
+   "sha256": "d6ad45ea285caf4c4e2864f012af0f71bf7d91ed52e3913eb83444162dd8ce34",
+   "size": 66096,
+   "source": "7ec3f22620b252f96bff56c4479d16a46f1dd425f59b58615e144f728449bc26"
+  },
+  "src.MapDecoders.EMUmap": {
+   "package": false,
+   "sha256": "e00fbbb12af88a5d9bb453c3fec4ac1fe5f5186f97dde5890cb2b835e56db924",
+   "size": 68178,
+   "source": "e6ff9d5feeb2fc90a595c0e4bbdf5940541f48e4c6b9b62621d9ad7d1b710d20"
+  },
+  "src.MapDecoders.HaltechMap": {
+   "package": false,
+   "sha256": "d162f2cd62c053b622821768541155d8cc887ffe446afbb8bf433f43d6e35235",
+   "size": 93671,
+   "source": "48f40b564542c12f93c5924f17cdf697dd9c1997299d92ed6869a8baa97bf5b8"
+  },
+  "src.MapDecoders.HolleyMap": {
+   "package": false,
+   "sha256": "82164bb6d919d3abb99d3e338ac970cf58d297e39efcaed1a989d8beed387991",
+   "size": 36455,
+   "source": "731662fe0ed6ed4134b0dd1dddffe0fee79c2ec80c0c938957e726266598aba3"
+  },
+  "src.MapDecoders.LinkMap": {
+   "package": false,
+   "sha256": "d53f37ae2cd1e32874c06da9e8ec6ceed97f4987b7e3cd915e3a1efbd596ef39",
+   "size": 87721,
+   "source": "87e3ff5e668a883639a04d8e6aa83dade957ae79fe1dcc769c14785deb528763"
+  },
+  "src.MapDecoders.MEcalibration": {
+   "package": false,
+   "sha256": "15b56d52970c0882e459773f3f35e15b2949e068c138567ea61f5728b757d880",
+   "size": 167103,
+   "source": "92fce9dc43766de990301e37673fbac4a99bf221c25d6d289f426eba37fc8272"
+  },
+  "src.MapDecoders.MSmap": {
+   "package": false,
+   "sha256": "6e8552352836eab275c88407d1d29e5002898004fae1c2030f4d9a53b96152c9",
+   "size": 102641,
+   "source": "fd11b27da6d4c91c03fa0b2fd05cf0c18c7cd7ade3c2e35b7ce7ea8d35f6b0f4"
+  },
+  "src.MapDecoders.MaxxECUmap": {
+   "package": false,
+   "sha256": "a89e7def9f0b41aa9fe71d2b0be5508e2364c87bc7399e0b2d049bf0681b0461",
+   "size": 56919,
+   "source": "f6292e8169a8d02c668170f45c175bef21b9a30141209821552babb0eca9bd97"
+  },
+  "src.MapDecoders.MotecM1map": {
+   "package": false,
+   "sha256": "ee3943f68478e2c1d03f0534e98ff94bf20496edd210d115433a2797c86df31b",
+   "size": 61929,
+   "source": "459b2984daa313c04afe005eac2fc56cf27e47a09d12ad6fc05221f4c35b41cc"
+  },
+  "src.MapDecoders.ecumaster_schema": {
+   "package": false,
+   "sha256": "983f8cd6b4bedcb5ec25f54827856ca2201ebbdaf52c49d4288aff9c364188e5",
+   "size": 19486,
+   "source": "4ffc2bd11a11b4e73034a552eb9468c3fe35c90b38db469b92ed4bd5b0b55256"
+  },
+  "src.MapDecoders.emupro_enums": {
+   "package": false,
+   "sha256": "e15abd08c04789435c34a4b774045739b8209f1f471d145a59443b263115c00f",
+   "size": 6428,
+   "source": "0ca989779a28f43ebebf8a045dc1a675c0e6c612d59e643017c06323ceb9d3a1"
+  },
+  "src.MapDecoders.genericMap": {
+   "package": false,
+   "sha256": "309c6aff6b353278ef1fb30b9819ab629192dce81b7924ae40e3140c416fe456",
+   "size": 34435,
+   "source": "56e9d8dcd80ee435ded4d535a54daf01d7e449e0636a4745a1612de93f93cc8e"
+  },
+  "src.MapDecoders.haltech_hdef": {
+   "package": false,
+   "sha256": "7dd3a133833324b3788797338dba71995cf2c0bba87a5aafc7bb636c5d9e86e0",
+   "size": 19490,
+   "source": "15780ba3e20632cfa282914830e622587c079afaeddda52353a8c6da05427cb3"
+  },
+  "src.MapDecoders.haltech_schema": {
+   "package": false,
+   "sha256": "53337d1cd92328e4d53184f7a994d0b90bb665d95d19bd4ab516b2353dd1aace",
+   "size": 21637,
+   "source": "903dfdaff1e0ed2cbffca672c60d65b7ad4f30ac93e041bd49b905c8e087d4a6"
+  },
+  "src.MapDecoders.holley_schema": {
+   "package": false,
+   "sha256": "acc672a9582ed67112b6e77d71a8046e6daf33dc75db610da9eb5e6b3f1f8f43",
+   "size": 7030,
+   "source": "bbf029f47670a557e1e083c6e72d604359f8c9c8c82d6333cf31569e56896f17"
+  },
+  "src.MapDecoders.link_schema": {
+   "package": false,
+   "sha256": "a76cd4ecb63f972550c613132086ad72ed97b2f3ba6094323e27b20861a332f5",
+   "size": 12330,
+   "source": "8601ed2ba44a571058209a457c9efb3963c2a28b4dbd5cfacb927f6a21c7d6d5"
+  },
+  "src.MapDecoders.mark_ledger": {
+   "package": false,
+   "sha256": "9da995a3f401a810711e1345ef010d3e767e0cbbc13b19d1a473f83911800991",
+   "size": 24421,
+   "source": "297241c93d9aa96ebd1f4d3813225ea422d473a4c7cab7775896fc4286cc4263"
+  },
+  "src.MapDecoders.me_config_validation": {
+   "package": false,
+   "sha256": "863f3eeda3fd0d5e88fc639b1bc1123e842531ae345a55e8883dadd88ade9240",
+   "size": 41178,
+   "source": "d1bfab5ab394848930bfa017e58781145f9052c37bf0763fb980af524839f57f"
+  },
+  "src.MapDecoders.me_watermark": {
+   "package": false,
+   "sha256": "20f8602707c476cbac140bf73f5915972f7c3365dc279a9678fd1037955f5532",
+   "size": 28063,
+   "source": "8343d47d8056037ae6bcc780168b019a3b7d683e9bcc2611590922e56e72fcdf"
+  },
+  "src.MapDecoders.ms_enums": {
+   "package": false,
+   "sha256": "f8e8e3065deab9a187edda7fcf7c277cb9337e3cafcd8078d3b09b190c08dcca",
+   "size": 17693,
+   "source": "260e1ab510c4508d49914c45844eca3d538bcade2e1ff52a70fa0d235a5dfd49"
+  },
+  "src.MapDecoders.settings_tree": {
+   "package": false,
+   "sha256": "ef0d2c06cfd20c83c14c6acc7c82aeabbf68bfb27399cef9da6fabd76f46d8d7",
+   "size": 65041,
+   "source": "e21c5e4e426e8529dee3f9df90b7a9e3fbd10176ac3f0f1e39f4006f654ca101"
+  },
+  "src.MapDecoders.xxtea": {
+   "package": false,
+   "sha256": "212bcf6e4f0760c2da8ee1ccb95a6fc32682a674c7474921227a7a5769dde324",
+   "size": 5940,
+   "source": "9226cb29867e998b5f755456f3c18e152d2b7bb317b8920b1acae3b7bc9ab082"
+  },
+  "src.MapPresets": {
+   "package": false,
+   "sha256": "2e7eea481410b60859263c5fbc01449ad9e4983e41a29b3234eee143da4a6484",
+   "size": 58235,
+   "source": "55e9cb63244fcec6be88d152d8cee1334308b48a5c5d7fce226c15c1bc728fcb"
+  },
+  "src.MigrationCleanup": {
+   "package": false,
+   "sha256": "1979a3ad3908016448331bda1816c3654413862fd7e3fe1fa5b592e949bdc2f9",
+   "size": 9902,
+   "source": "5846bc6ae4131d0762f6ef699f24a05f39c28085378155e7dda4e1ad1b2fd614"
+  },
+  "src.OverBoost": {
+   "package": false,
+   "sha256": "c5fd9ed6a1b2dca5741f04aa5745507d5efb79a59e860774e31ea1522c82e529",
+   "size": 22451,
+   "source": "f9ff9cfa9b6bd1dea3811b7493c0a3e19eeccea1e4b2682fa249518d50b2da79"
+  },
+  "src.OwnEcuTuning": {
+   "package": false,
+   "sha256": "61579f6f292d76e042c4267f1e769b334995ac0a7d43699f856d377ab92f3f63",
+   "size": 26634,
+   "source": "42d02cfcbb1c392ea9494e9daee9c5bf6ff33ca76e36a4379c1b83165a940760"
+  },
+  "src.PartnerBilling": {
+   "package": false,
+   "sha256": "9e7f8831f26b88a0530eabb94e7538095b4cd9f5c49ba3b9bd47b43c5336b80f",
+   "size": 30848,
+   "source": "91a93ace22ba4e03e17a9521f3099a57a4a5fd339410b484cbe28e3df66780b5"
+  },
+  "src.PatchUpdate": {
+   "package": false,
+   "sha256": "6a1db66fac253a8581b1b57b0912852cd1f926c02e43ca7180521db9ece3cfc8",
+   "size": 24287,
+   "source": "87c2e45125b55c16bc4ec22e03456e3167afc6fe40c81f1d884c92fdc8a7b78e"
+  },
+  "src.Platform": {
+   "package": false,
+   "sha256": "58f86355dbf126bddf35526ab26b5515ae02a938beffc355765558cfa4efaf49",
+   "size": 15440,
+   "source": "0785790a16a05554d63d18d1d0e7a1ae5b8d1109ba6cfcb4ebcf93e08515ac6a"
+  },
+  "src.PowerState": {
+   "package": false,
+   "sha256": "2007f086b523f921e2227ecda2dfbbbe449020ad42e03284a653bcb143540ae0",
+   "size": 14846,
+   "source": "17c73a586fdc97a84847da982e8de5ca1b8a984216b0196d4c9b9146137cb9c7"
+  },
+  "src.RevLimit": {
+   "package": false,
+   "sha256": "b07001c20e3d58492b6879070912066f02bf81a10ea095864d65bbc2492fc607",
+   "size": 17406,
+   "source": "ef736b11350eb4d4a2b90869a30f47d5c44aaeb3041a702c6590295e9712ebe9"
+  },
+  "src.ScatterPlotTable": {
+   "package": false,
+   "sha256": "59211777c311e8a23c83d4dbb7d5fb09b96ba2ac9d282be920a46bec8f997849",
+   "size": 139683,
+   "source": "58cc9fb050740fb62d53b58bfb27ff628c3b415f847881b550d4916a27c2543d"
+  },
+  "src.SensorConfig": {
+   "package": false,
+   "sha256": "6efaf61bf62b8b52077588256c5f7ae7824bb43c8b9f50ad409ec945583b318a",
+   "size": 13191,
+   "source": "e464d1b137eb19147e71718506ed0c8a27a432df881883f0102a4803813cace9"
+  },
+  "src.SensorRaw": {
+   "package": false,
+   "sha256": "3023d3831022490cf6f5ef95a23e21751546629a4342d073c2ea3e9694173a1b",
+   "size": 30403,
+   "source": "bc5aa6bedb252b7b2b4ffc88cdd00769a9caa86b01fa8367ce47068b7f9bf8ac"
+  },
+  "src.Settings": {
+   "package": false,
+   "sha256": "495e463407ddde163e811818f9bce4899cbff8764bacd2e5e34b600b5fe941ab",
+   "size": 50439,
+   "source": "79eee33f064c5987eb1e3237277ff56f005ce789ab69f0d39fabfed441156f9a"
+  },
+  "src.TableFit": {
+   "package": false,
+   "sha256": "1cf7e340ca8b5e43d36c86b9e4f61160be300b039c74c3df4362791db7fb0e7a",
+   "size": 22625,
+   "source": "d72db6961fec5c825e05d71f4eb49923a26b1093863326bbbfc0cdf31d8e6305"
+  },
+  "src.Theming": {
+   "package": false,
+   "sha256": "5b976fa0858e7a4a65f1361608329c45e45a930daf29f0330f7e73e17dd02130",
+   "size": 21305,
+   "source": "1d34a33b6426b93e697e2c63c787ac3500e836a34f43dea5bb09d4fef1ae505e"
+  },
+  "src.Threading": {
+   "package": false,
+   "sha256": "5dfff4c2128da410bbf95450c74ca9c35381da116a3017c79676b4a338fea801",
+   "size": 14331,
+   "source": "8c72903aa6ba81e097d01c80c4e5e7848fc93c3829965a2ae2e2327b71adf2da"
+  },
+  "src.Transcriber": {
+   "package": false,
+   "sha256": "dd873e157c4f9fe4766cf5335c3307df16f6e7f1336049f22577716fcb060b5d",
+   "size": 17516,
+   "source": "25815786636f12ea10be62a06650c2bae82a1c788e1d6fa4b508e71fb4e52003"
+  },
+  "src.TrimFormula": {
+   "package": false,
+   "sha256": "daabd5cf4c64a3b4a532fa95538b731f53817f6892b23251a2b1c355a9c764c9",
+   "size": 7489,
+   "source": "b29292411fff2873e48a6f64a84ab0c3e98afab0d3a8e594001c2ea417601246"
+  },
+  "src.TuneLicense": {
+   "package": false,
+   "sha256": "c4455f59c2beb6483cf381adbe84da18a96174530f8e51cf4a3f528d4e552912",
+   "size": 102875,
+   "source": "fb9108b32a89f43af68836a3e9f0de190c5040ab96b36a136ba9aa34c6c99979"
+  },
+  "src.TuneStatus": {
+   "package": false,
+   "sha256": "8ce7e1353bdee4b86ff0aa1c88f2f485c0e3f11c2103616354f6519b28d35fff",
+   "size": 35506,
+   "source": "ddb02494bf89431fd2ca6eb2422e0b1ee3100583878d60be558b3a9f4cba83c6"
+  },
+  "src.TunerNotes": {
+   "package": false,
+   "sha256": "16b967915a636a09ef9c606b2d97f81f1069bf19f0f81ed45e3dacd8d1635d6a",
+   "size": 8866,
+   "source": "7b8698b10f3b5a844c5fcda9bb0ebe748bd3cf763cf8ab10c9e868218b00d7df"
+  },
+  "src.UnsentLogs": {
+   "package": false,
+   "sha256": "ae5091d39d07cc8f89eaade344c302484d634e88b04a8516a459f7ff706d7c2b",
+   "size": 33418,
+   "source": "5441dca8eec404bdacfb06901f63e583f815682475697a08bb4a78792fea1d86"
+  },
+  "src.Updater": {
+   "package": false,
+   "sha256": "0aa31929db0dd3d7f5d634ee2c7798cb33480282b5787d7f992d0fe9c38377f4",
+   "size": 50427,
+   "source": "fafd562ca46455b4136113146f5982bb758ff61a91941468b64628bbe0c6b162"
+  },
+  "src.Workflow": {
+   "package": true,
+   "sha256": "3ab92aa292d987809a0c0a35c1e66ea1c5f86abdb026a2f75c087acfae9e9cde",
+   "size": 2113,
+   "source": "3b40646f9e87761c6fde04a14a52d7ed82e27bb17c19d4757d6dbc62e568ccfe"
+  },
+  "src.Workflow.apphost": {
+   "package": false,
+   "sha256": "7941e10efded343f878706f757a2f8b7b02ccb964a7800a77b03815eed4a4282",
+   "size": 195907,
+   "source": "4bca57bb3b8dbbf9c1a87d5373ec25e6d60905faacbb6887df79bf6de34951ad"
+  },
+  "src.Workflow.assets": {
+   "package": false,
+   "sha256": "12e36d205d11a56b360fe1a924cbe6acc0021e5d3ff3a9172ddfecd7205a8e67",
+   "size": 21386,
+   "source": "046486ced1217bbecdeb4740458d5eb19fb602e9e3cb780e1ee8d29f2cba9128"
+  },
+  "src.Workflow.autotune": {
+   "package": false,
+   "sha256": "d940fee7e2aa6f33cf9aa4732744128ead5cbc0a9936109a56a305b09c949a91",
+   "size": 78863,
+   "source": "14edd081e0d85afc75396b28891a132fa92cad37a7515965b1c74e5ab285fd3e"
+  },
+  "src.Workflow.calblob": {
+   "package": false,
+   "sha256": "02c6cdfb068c689cc2820d3ba5491fd3a1fa327d33ca44a7c1ebef29e056a68e",
+   "size": 10437,
+   "source": "9b6e861765c4f27c244d952eceeb734a65f9b70eb7a8aa4ad173659a6163463a"
+  },
+  "src.Workflow.capabilities": {
+   "package": false,
+   "sha256": "3b7b2f174fb9a352fd7f277f4760765fed17b68925b44cefced093c444fb0edb",
+   "size": 19480,
+   "source": "43cae4fb1bd9e0ae8a1c5675ad8018d70313193e61fce3ab8563646e36c1c153"
+  },
+  "src.Workflow.carfile": {
+   "package": false,
+   "sha256": "6b6f6498b6611e9b09a7edcf46b7e965bca6f1e5610635fa477dd963bbaf5d21",
+   "size": 30800,
+   "source": "1d84e74e5db210f628152d6b96c7af0baa466d8d75e6abd84081ba51704c777f"
+  },
+  "src.Workflow.container": {
+   "package": false,
+   "sha256": "6fa06f18a2c7e5f0d130d0ca57bcac666e25348137d6ecc7c749f2f9bd368dce",
+   "size": 37838,
+   "source": "4d7fe829ec462aa076ae204322ac5a050bd1f5a923270a493b9ee62d4a3eed13"
+  },
+  "src.Workflow.customerdetails": {
+   "package": false,
+   "sha256": "033d04c43a039b6b60c08d22b70b879b22d2f63407c94cb8e9cd78470f175462",
+   "size": 22807,
+   "source": "2e97f2089931242794132412389d80d5c537f7febe5f523945cb7ea9e07673e0"
+  },
+  "src.Workflow.defscan": {
+   "package": false,
+   "sha256": "83a06aa133fe7fda6924a91da3a2f13d4faa70a657f11e9a9c2fb17a742d1c02",
+   "size": 63801,
+   "source": "10ef776c42060b55eaad3e969de0c374c3343cabe0fc61f4e6b711fe0c348513"
+  },
+  "src.Workflow.discovery": {
+   "package": false,
+   "sha256": "772d37313be28c26be09ddfffb46fbeab7a45c32c364b145dda13849f5bb8adb",
+   "size": 46486,
+   "source": "2b546d2a18952a8c42084759b497e98905ac5942ca58fd32ea20bc493378e7cf"
+  },
+  "src.Workflow.expressions": {
+   "package": false,
+   "sha256": "92bb652dc328f283923edbd704cab7f501689f292b73f74d1d5488d520a7740d",
+   "size": 29270,
+   "source": "6b83c1276a96e03fe62e61787298d88f60493df9df3c60542870e355f5c64772"
+  },
+  "src.Workflow.extract": {
+   "package": false,
+   "sha256": "cdce9a84b4c2bbed137bf1e478a8e796287aca8c7fc37ccd8df53523702d40ff",
+   "size": 11295,
+   "source": "c77a86c717e96990f5730d0a03c90fd6704652dc19b171cf1c182f88140cde80"
+  },
+  "src.Workflow.firmware": {
+   "package": false,
+   "sha256": "fc9313d3f34acb97f90d9467ad5772ab17fc13cf576fe9bb5181f4461646a4de",
+   "size": 40901,
+   "source": "9e508a3dd637eda8d4e09c376cb0fa8e649402600a3a65c1b510f0d7edf71417"
+  },
+  "src.Workflow.format": {
+   "package": false,
+   "sha256": "72b3d56731ac23d8ad4cb96a9df1cb092e66f4ed347e4c6bbbc9a6029cfb2cd3",
+   "size": 45102,
+   "source": "28c9eb3e7e0ad2fa8201cc8b7ec57a156801d7c501c213e9a4371a262756fc51"
+  },
+  "src.Workflow.ignition": {
+   "package": false,
+   "sha256": "f0bbf8d0e4a9aed0d94aeda9d2b7b1d90bd3c45019073604f5f094480cc10c19",
+   "size": 48623,
+   "source": "63e1f4545bfcba6187e005f1b94091a34a49532eca8813712f91aba2be23138f"
+  },
+  "src.Workflow.inputs": {
+   "package": false,
+   "sha256": "111b86623a4a9697ec702b905f4e11baddb5da60c2356cd886ac57f7026f2c0c",
+   "size": 39370,
+   "source": "066c82a73be6f0f3fe58d581e2ff987317b693ec50c3d9d18de780561b429c7e"
+  },
+  "src.Workflow.keys": {
+   "package": false,
+   "sha256": "6e00e7e479c9675dd5b292da7b9a1fe92efdcb8ca1fd9a7a44bc374240d7b4b8",
+   "size": 26349,
+   "source": "511f7acb198e4451952c59fb030c11f5220acc481f4a4e80c0290c3451fbf2e8"
+  },
+  "src.Workflow.liveoffer": {
+   "package": false,
+   "sha256": "3d5d7d44032ed7566069f6d353b037fe885437a61ada383fa734e43878e78139",
+   "size": 35006,
+   "source": "98d78c4f9899eab0bae054ca33dbe92422224915556af514766e3eaeea3026a7"
+  },
+  "src.Workflow.mapbuild": {
+   "package": false,
+   "sha256": "81f801b8bb66848054032a6acd7e78f918075689baf63f8296104b460b77e365",
+   "size": 43743,
+   "source": "f5f59c3040afb835d5e4f6d0cf9429753250b24344648629220a3d8fd5a1a3c9"
+  },
+  "src.Workflow.names": {
+   "package": false,
+   "sha256": "0312df492d4c356ebd85bcd7b10926114414c3c661a31878820dbc6f37c00f72",
+   "size": 21331,
+   "source": "83a270fc08c951ea34ee4cb399194ead2ec2c2b0ab3582846bd83b15e445dad7"
+  },
+  "src.Workflow.owed": {
+   "package": false,
+   "sha256": "e5bd7d0101f453c21ba6f32a010dbbcee195ebb532e99305f66d1ee4cac6088c",
+   "size": 47043,
+   "source": "b5a5b3f1354ffb0347d9edf97e77ece70d99a3762743f8dc0f334ddd1deff1fb"
+  },
+  "src.Workflow.presets": {
+   "package": false,
+   "sha256": "508d47489cb20353a32b46444936cd84a59b589b9bb1ba12c719ecfb25c3956f",
+   "size": 25624,
+   "source": "a72a58fcd66d446b4d78a473986ec2bd8ad8d1b554779d29d56bbc1a40a69704"
+  },
+  "src.Workflow.progress": {
+   "package": false,
+   "sha256": "a469d251e8e7a070c634017d92474a7ce85c5413ad045622923770cabb4750f6",
+   "size": 22386,
+   "source": "28f99866b8b017802d2015d86475b01f52f6b132cff5f1b8758d73439b92f344"
+  },
+  "src.Workflow.project": {
+   "package": false,
+   "sha256": "70673c7bacea7effd67605b1ac5c5b5238f1a8bab262082f87afdbd3382a8f57",
+   "size": 48893,
+   "source": "fa6fb52d9bf70759b7a2db48a750a5f318d5cee1107f92b27281c16e8db7eb72"
+  },
+  "src.Workflow.rehydrate": {
+   "package": false,
+   "sha256": "75409c0a986d286f18dc84e4ac8d8406baaa42836cd19665355a65ecc390ddae",
+   "size": 26562,
+   "source": "0ceddc9350cc46ea5560d28b78f7716272fa237d2779d635bdf486d36ee85ad3"
+  },
+  "src.Workflow.result": {
+   "package": false,
+   "sha256": "4de82cbdd999b9e2e7af1b0670e230f116959962456f231e191b5d26006b97b8",
+   "size": 107934,
+   "source": "427f9156f34bda32d5f806df06c8ba0f6ca29668563e5647ef6cbce16b4ac8ba"
+  },
+  "src.Workflow.richtext": {
+   "package": false,
+   "sha256": "888a37f6aa93cfebb5d191d0e64128668c88313cab1e6a0d405be2e9aae12875",
+   "size": 12921,
+   "source": "eb432451be2a97fecb47dcb76ab75bfb794171de704d4a839fb4227d075774f9"
+  },
+  "src.Workflow.runner": {
+   "package": false,
+   "sha256": "1cd7b4665bf91321f4debefebe41eae93523e8d5d962ccff405a0ca6f754101a",
+   "size": 391315,
+   "source": "ba7ec1db78c68968e3c50800581f09828b3e8042bc6454e81dc44e8235439cfb"
+  },
+  "src.Workflow.runstate": {
+   "package": false,
+   "sha256": "47da136a55f2506a770861328771f44d676c7cfc0debf3d78c00509496ba20bf",
+   "size": 78875,
+   "source": "cfcf3d931335a0271060fd0c400c0e90b4bf265eceee2d084aa9723f37d565ff"
+  },
+  "src.Workflow.seal": {
+   "package": false,
+   "sha256": "e73440a51a4c77159343224eef35e607cec33f79bb1ec70a7b9284ca97da8b6e",
+   "size": 4677,
+   "source": "918dd2f1306d09ccb9a49d985aa88f82233c49a62bee0a8435204c0f517239c9"
+  },
+  "src.Workflow.secrets": {
+   "package": false,
+   "sha256": "6b7ddba5853d0f78d4654f0c555eb59c13c9a13a49670c44018cc984b6fcb5cd",
+   "size": 5285,
+   "source": "6dfed9110c5fa9dffe70a3dad1bc8a063d1cc8ab43d3326f28a5969bc4fc0847"
+  },
+  "src.Workflow.steps": {
+   "package": false,
+   "sha256": "433ba6bb4d16765e006ddc2e91e9d16bb6c27ed3448fa3344abdc6e880dd13a7",
+   "size": 202357,
+   "source": "a80cbaa06bab3671d375938694645c91db664b0cc27497d4579cc6d368031b42"
+  },
+  "src.Workflow.trust": {
+   "package": false,
+   "sha256": "1c79a941bb5f4d32276ebab3968f0a10900a4063117321ba13dedabea164c9ae",
+   "size": 10015,
+   "source": "305f644aa425113d4d6beb6a85c880805555e1abaa6592ffcabbdf50645bb75c"
+  },
+  "src.Workflow.voicenote": {
+   "package": false,
+   "sha256": "13126c82eb502327101981be6849ba1baeed75eeafda4fe4c9e1863d9c2cca89",
+   "size": 28749,
+   "source": "8569f178b71d871c65f1fc678602b87e2095b25b6fdb2bf108cbe8636533e98b"
+  },
+  "src.Workflow.wording": {
+   "package": false,
+   "sha256": "14d6a7cab67251a645b0aad2f9ee76c0e59bf461631bc1163be6557a1f7b2cc5",
+   "size": 28324,
+   "source": "f81c25fed2f82f6b43fc9bd0f557543ddb915e08626f8cdaf7e4eb50ec6e49f3"
+  },
+  "src.WorkflowPublish": {
+   "package": false,
+   "sha256": "89a6a67e105c4e36d052e09e45bb30590cd948a34e4298419e7cb21ae6cfd7d8",
+   "size": 69942,
+   "source": "7f661749192b5113abf0cc5c7aba822948c260a8118b32b556c08f251e0c1cc7"
+  },
+  "src.colormaps": {
+   "package": false,
+   "sha256": "e9f9b264fc6673948a29ed7930b698b387b5a99a1b7d067656a946d0af7359e1",
+   "size": 10243,
+   "source": "f022bd6b456e27ebfd03aa2f8701b43b394e4725dbdc69635d53a1e10f3cc8e8"
+  },
+  "src.edition": {
+   "package": false,
+   "sha256": "b2a4a4fd22b56a3b9d732b8a1356ad1c7ba0aaa54ba55b80804f3f909d5058ec",
+   "size": 12309,
+   "source": "a9f04acbc7bceefbb8e17c281a2d129db2364b26eca320f4024ae2cd4c0c9cde"
+  },
+  "src.log_dataset": {
+   "package": false,
+   "sha256": "2802c4cd518329d7a670f35d96763b9bab1164155557ea4cc1db6136360b3736",
+   "size": 33250,
+   "source": "58f1184f50ab8a391713618da76c82c7b6b7ab103bf6b2aa29d4ecfc1ad0455e"
+  },
+  "src.platform_windows": {
+   "package": false,
+   "sha256": "f466e82c61b53b535f77f4210e6d2672c8a5b4696fa82f4d7d015228f9506c5e",
+   "size": 8041,
+   "source": "afa4ec665065e93379471f624bef1dbc3b66d13c67dfd617d2281bad37b1bd1a"
+  },
+  "src.powerstate_windows": {
+   "package": false,
+   "sha256": "38c2ff8883e5fdddaa27a72a98ebd2a98279389d853302cce9c1318813225c61",
+   "size": 14213,
+   "source": "84effbdf2fccec9ae7feed0a747850a2ec7824d0daa7da00e75630d6cfa3f7d0"
+  },
+  "src.ui_interface": {
+   "package": false,
+   "sha256": "cda8934fd32e9bbd97e4a6c9d6647d103562805c33f7d22bdecaf85bae0fed99",
+   "size": 223314,
+   "source": "b4bdc24ded0ec0d5fce4808151035f28cf1d56424b270ba163fdeb032a41d645"
+  },
+  "src.version": {
+   "package": false,
+   "sha256": "e97132fd12afc5b22b51cdedb351b23116a77964e3d985cac0a114ddf7712fec",
+   "size": 804,
+   "source": "da383f1871a3774e753fbe078bbf211d24159f1d7cdddba156c3a463c6f6563c"
+  },
+  "src.zerowidth_codec": {
+   "package": false,
+   "sha256": "e96d0f72078a955be9e0d017bcf04d3e741f6281e6e7485857fdaf802c3c8ca7",
+   "size": 5903,
+   "source": "d6a1a08883e3044e6c41a8f2bf9b55265fdf3e1695a438e34b624bb426476974"
+  }
+ },
+ "notes": "Adds functionality for tuning partners: a garage's cars are registered as soon as the ECU is plugged in, and one car can be worked on from several laptops. Also improves onboard wideband readings.",
+ "platform": "dec8ae71e021d814e6aefd582fd3bbc567f9b3e59ca97d4b348df943901acdd0",
+ "platform_parts": {
+  "binaries": "df446a181cf94e54aa4023e5816cf7b75f38162faddbf930b5e3cd8971e4ab4d",
+  "boot": "bcb6c01cad6607f36e14a466823a9e100bff7b35d0761e69123045b9a19c40c3",
+  "data": "f27bb118f43e91c8c5f4ccbdae2e49c83934be680acc799241b6f0eefebd6ce7",
+  "pyarmor": "9.1.9",
+  "python": "cp312-cb0d0d0a",
+  "schemas": "5059190d437e93eda34cdf3e03b5bb602ce36d6fc4dbc99a2bcfd27b99f04725",
+  "stdlib": "9b9dbbe9483197045ceb60ad32e6e649f64f010742a4d2f3be14e6492899af3a",
+  "third_party": "5ba142eefb2d1958ef6e87c2ba1e8b2df078ae3077e48155f645b20bd344f22d"
+ },
+ "product": "full",
+ "published": "2026-10-28T23:38:25Z",
+ "schema": 1,
+ "version": "1.2.20"
+}
